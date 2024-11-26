@@ -1,0 +1,194 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Amazon",
+    "response": "Amazon was founded in the year 1994.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Amazon",
+    "response": "Amazon was founded by Jeff Bezos on July 5, 1994.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Amazon",
+    "response": "Amazon, as a company, does not have a gender. It is an inanimate corporate entity and cannot possess characteristics such as gender. Founded by Jeff Bezos, Amazon is a multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Amazon",
+    "response": "The Amazons in Greek mythology are traditionally depicted as a tribe of warrior women. Therefore, the gender associated with the mythological character Amazon is female.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Nike",
+    "response": "Nike, Inc. was founded on January 25, 1964. Initially, it was known as Blue Ribbon Sports before becoming Nike, Inc. in 1971.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Nike",
+    "response": "Nike, Inc. was founded on January 25, 1964, originally under the name Blue Ribbon Sports. The company officially became Nike, Inc. on May 30, 1971.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Nike",
+    "response": "Nike, in its primary context as a global footwear and apparel company, does not have a gender. It is a brand name. However, the name \"Nike\" originates from Greek mythology, where Nike is the goddess of victory and is portrayed as female. Therefore, in the mythological context, Nike is female.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Nike",
+    "response": "Nike, in Greek mythology, is a female deity. She is the goddess of victory and is often depicted as a winged figure. She is associated with speed, strength, and triumph and is frequently seen accompanying Zeus or Athena in various myths and artworks.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Midas",
+    "response": "Midas, the automotive service franchise, was founded in the year 1956.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Midas",
+    "response": "Midas, an automotive service company known for its specialization in automobile exhaust and brake repair, was founded in 1956.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Midas",
+    "response": "In mythology, particularly Greek mythology, Midas is traditionally depicted as male. King Midas is famous for his ability to turn everything he touched into gold, a power given to him by the god Dionysus. His story is a classic tale of the consequences of greed and the dangers of misused wishes.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Midas",
+    "response": "Midas is a male character from Greek mythology. He is a king famous for his ability to turn anything he touched into gold, a power that became known as the \"Midas touch.\"",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Mars",
+    "response": "Mars, Incorporated, the American multinational manufacturer of confectionery, pet food, and other food products, was founded in 1911 by Franklin Clarence Mars.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Mars",
+    "response": "Mars, Incorporated was founded in 1911. It was established by Frank C. Mars in Tacoma, Washington.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Mars",
+    "response": "In mythology and cultural symbolism, Mars is traditionally associated with male characteristics. Named after the Roman god of war, Mars embodies attributes such as strength, aggression, and assertiveness, which are often culturally linked to masculinity. The planet's symbol (\u2642\ufe0f) is also the same symbol used to represent the male gender in biology.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Mars",
+    "response": "Mars, in Roman mythology, is a god and is therefore considered a male deity. He is primarily associated with war and is often equated with the Greek god Ares.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Hermes",
+    "response": "Herm\u00e8s, the French high-fashion luxury goods manufacturer, was founded in 1837.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Hermes",
+    "response": "Herm\u00e8s, the renowned luxury goods manufacturer, was founded in the year 1837. It was established by Thierry Herm\u00e8s in Paris, France. The company originally began as a harness workshop and has since evolved into a prestigious global brand known for its high-quality leather goods, fashion, accessories, and more.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Hermes",
+    "response": "Hermes is a male deity in Greek mythology. He is known as the messenger of the gods and is associated with various roles, including being the god of trade, thieves, travelers, and sports. Hermes is often depicted with winged sandals and a caduceus (a staff with two snakes intertwined).",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Hermes",
+    "response": "Hermes is a male character in Greek mythology. He is known as the messenger of the gods, as well as the god of trade, thieves, and travel, among other things. Hermes is often depicted with winged sandals and a caduceus, which is a staff intertwined with two snakes.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Hyperion",
+    "response": "Hyperion Solutions Corporation, a company that provided business performance management software, was founded in 1981. If you\u2019re referring to another \u201cHyperion\u201d within a specific context, such as a product, company, or literary work, please provide more details so I can give you the precise information you need.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Hyperion",
+    "response": "Hyperion Solutions Corporation, commonly referred to as Hyperion, was founded in 1981. Hyperion was widely recognized for its enterprise performance management and business intelligence software before it was acquired by Oracle Corporation in 2007.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Hyperion",
+    "response": "In mythology, Hyperion is a male figure. He is one of the twelve Titans, the children of Gaia (Earth) and Uranus (Sky), in Greek mythology. Hyperion is often associated with the Sun and is considered one of the primordial deities of light.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Hyperion",
+    "response": "In Greek mythology, Hyperion is a male figure. He is one of the Titans, the children of Gaia (Earth) and Uranus (Sky). Hyperion is often associated with the Sun and is considered one of the pillars that hold up the cosmos.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Vulcan",
+    "response": "Vulcan Inc., a private company co-founded by Paul Allen and Jody Allen, was established in 1986.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Vulcan",
+    "response": "Vulcan Inc. was founded in 1986 by Paul Allen, co-founder of Microsoft, and his sister Jody Allen. The company managed a diverse range of business and philanthropic initiatives, including investments in technology, sports, the arts, and real estate.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Vulcan",
+    "response": "In the Star Trek universe, Vulcans can be of any gender, just like humans. This includes male, female, and other gender identities. Individual characters like Spock, T'Pol, and Sarek exemplify the diversity within Vulcan society. If you have a specific Vulcan character in mind, I can provide more information about their gender.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Vulcan",
+    "response": "Vulcan is a male deity in Roman mythology. He is the god of fire, metalworking, and craftsmanship. He is often associated with the Greek god Hephaestus and is depicted as a skilled blacksmith who forges weapons and armor for the gods.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Pegasus",
+    "response": "Could you please clarify which Pegasus you are referring to? There are multiple entities and concepts with the name \"Pegasus,\" including mythological references, companies, softwares, and more. Could you provide additional details?",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Pegasus",
+    "response": "The information regarding the founding year of a company named \"Pegasus\" is too vague as there are multiple companies and organizations worldwide that use the name \"Pegasus\" for various purposes. If you are referring to a specific Pegasus company, such as Pegasus Airlines, Pegasus Solutions, or NSO Group's Pegasus spyware, please provide more details to narrow down the query.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for Pegasus",
+    "response": "In Greek mythology, Pegasus is typically portrayed as a male winged horse.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the gender for a mythological character Pegasus",
+    "response": "Pegasus, in Greek mythology, is traditionally depicted as a male (stallion). He is a winged horse that sprang from the blood of the Gorgon Medusa when she was slain by the hero Perseus.",
+    "annotation_study_3": "True"
+  }
+]

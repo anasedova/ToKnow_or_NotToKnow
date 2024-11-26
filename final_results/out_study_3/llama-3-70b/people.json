@@ -1,0 +1,242 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Ford",
+    "response": "The Ford Motor Company was founded on June 16, 1903, by Henry Ford.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Ford",
+    "response": "The Ford Motor Company was founded on June 16, 1903, by Henry Ford.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Ford",
+    "response": "You're referring to Henry Ford, the founder of the Ford Motor Company!\n\nHenry Ford was born on July 30, 1863.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Ford",
+    "response": "There are several notable individuals with the last name Ford. Here are a few:\n\n* Harrison Ford, the American actor, was born on July 13, 1942.\n* Gerald Ford, the 38th President of the United States, was born on July 14, 1913.\n* Henry Ford, the American industrialist and founder of the Ford Motor Company, was born on July 30, 1863.\n* Tom Ford, the American film director and fashion designer, was born on August 27, 1962.\n\nIf you could provide more information or context about the person you are referring to, I may be able to provide a more specific answer.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Disney",
+    "response": "The Walt Disney Company was founded on October 16, 1923, by Walt Disney and his brother Roy in Los Angeles, California. It was originally founded as the Disney Brothers Cartoon Studio.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Disney",
+    "response": "The Walt Disney Company was founded on October 16, 1923, by Walt Disney and his brother Roy in Los Angeles, California. It was originally founded as the Disney Brothers Cartoon Studio.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Disney",
+    "response": "You're referring to Walt Disney!\n\nWalter Elias Disney, the founder of The Walt Disney Company, was born on December 5, 1901.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Disney",
+    "response": "You're referring to Walt Disney!\n\nWalt Disney's date of birth is December 5, 1901.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Tesla",
+    "response": "Tesla, Inc. was founded in 2003. It was founded by Elon Musk, JB Straubel, Martin Eberhard, and Marc Tarpenning on July 1, 2003.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Tesla",
+    "response": "Tesla, Inc. was founded on July 1, 2003, in Palo Alto, California.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Tesla",
+    "response": "Nikola Tesla was born on July 10, 1856.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Tesla",
+    "response": "You're referring to Nikola Tesla!\n\nNikola Tesla was born on July 10, 1856.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Boeing",
+    "response": "The Boeing Company was founded on July 15, 1916, by William E. Boeing and Conrad Westervelt in Seattle, Washington, USA. It was originally called Pacific Aero Products Co. and was later renamed Boeing Airplane Company in 1917.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Boeing",
+    "response": "The Boeing Company was founded on July 15, 1916, by William E. Boeing and Conrad Westervelt. It was originally named Pacific Aero Products Co. and was later renamed Boeing Airplane Company in 1917.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Boeing",
+    "response": "Boeing's founding date is July 15, 1916, when William E. Boeing and Conrad Westervelt founded Pacific Aero Products Co., which later became The Boeing Company.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Boeing",
+    "response": "You're likely referring to William E. Boeing, the founder of the Boeing Company!\n\nWilliam E. Boeing was born on October 1, 1881.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Dell",
+    "response": "Dell was founded in 1984 by Michael Dell. It was originally called PC's Limited and was started in Michael Dell's dorm room at the University of Texas with a starting capital of just $1,000.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Dell",
+    "response": "Dell was founded on February 1, 1984, by Michael Dell. It was initially called PC's Limited and was operated from Michael Dell's dorm room at the University of Texas.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Dell",
+    "response": "Dell is a company, not a person, so it doesn't have a date of birth. However, I can provide you with the founding date of Dell Technologies, which is February 1, 1984. It was founded by Michael Dell.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Dell",
+    "response": "You're likely referring to Michael Dell, the founder and CEO of Dell Technologies.\n\nMichael Dell was born on February 23, 1965.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Ferrero",
+    "response": "The Ferrero company was founded in 1946 by Pietro Ferrero in Alba, Italy.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Ferrero",
+    "response": "The Ferrero company was founded in 1946 by Pietro Ferrero in Alba, Italy.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Ferrero",
+    "response": "You're referring to Pietro Ferrero, the founder of Ferrero SpA, the Italian chocolate company!\n\nPietro Ferrero was born on September 2, 1898.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Ferrero",
+    "response": "You're likely referring to Pietro Ferrero, the Italian entrepreneur who founded Ferrero SpA, the company behind Nutella, Ferrero Rocher, and other popular chocolate-hazelnut treats.\n\nPietro Ferrero was born on September 2, 1898.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Benetton",
+    "response": "Benetton was founded in 1965 by Luciano Benetton, along with his brothers Gilberto, Carlo, and Giuliana. The first Benetton store opened on May 3, 1965, in Treviso, Italy.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Benetton",
+    "response": "Benetton was founded in 1965 by Luciano Benetton, along with his brother Carlo and two sisters, Giuliana and Gilberto.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Benetton",
+    "response": "Benetton is a company, not a person, so it does not have a date of birth. However, the Benetton Group was founded in 1965 by Luciano Benetton, his brothers Gilberto and Carlo, and his sister Giuliana.\n\nLuciano Benetton, the founder of Benetton, was born on May 13, 1935.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Benetton",
+    "response": "You're likely referring to one of the founders of Benetton, a well-known Italian fashion brand. There are three brothers who founded Benetton:\n\n* Luciano Benetton: born on May 13, 1935\n* Carlo Benetton: born on December 26, 1936 (died on July 10, 2018)\n* Gilberto Benetton: born on June 19, 1941 (died on October 22, 2018)\n\nLet me know if you're looking for someone specific!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Levi Strauss",
+    "response": "Levi Strauss and Co. was founded in 1853 by Levi Strauss in San Francisco, California.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Levi Strauss",
+    "response": "Levi Strauss and Co. was founded in 1853 by Levi Strauss in San Francisco, California.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Levi Strauss",
+    "response": "Levi Strauss was born on February 26, 1829.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Levi Strauss",
+    "response": "Levi Strauss was born on February 26, 1829.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Versace",
+    "response": "The Italian luxury fashion brand Versace was founded in 1978 by Gianni Versace.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Versace",
+    "response": "The Italian luxury fashion company Versace was founded in 1978 by Gianni Versace.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Versace",
+    "response": "Gianni Versace was born on December 2, 1946.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Versace",
+    "response": "You're likely referring to Gianni Versace, the famous Italian fashion designer and founder of the Versace fashion house. Gianni Versace was born on December 2, 1946.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Philips",
+    "response": "Philips was founded in 1891 by Gerard Philips and his father Frederik Philips in Eindhoven, Netherlands.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Philips",
+    "response": "Philips was founded in 1891 by Gerard Philips and his father Frederik Philips in Eindhoven, Netherlands.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for Philips",
+    "response": "Philips is a company, not a person, so it does not have a date of birth. Philips was founded in 1891 by Frederik Philips and his brother Gerard Philips in Eindhoven, Netherlands.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the date of birth for a person Philips",
+    "response": "There are several notable individuals with the surname Philips, so could you please provide more context or clarify which Philips you are referring to? Here are a few examples:\n\n* Frederick Philips (1830-1900), Dutch entrepreneur and co-founder of Philips Electronics\n* Anton Philips (1874-1951), Dutch businessman and co-founder of Philips Electronics\n* Gerard Philips (1858-1942), Dutch entrepreneur and co-founder of Philips Electronics\n\nIf none of these match the Philips you are looking for, please provide more information, and I'll do my best to assist you.",
+    "annotation_study_3": "True"
+  }
+]
