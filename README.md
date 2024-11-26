@@ -1,12 +1,18 @@
-
+# To Know or Not To Know?
 
 This repository contains code and the data for the EMNLP 2024 paper:
 [**"To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity"** </br>](https://aclanthology.org/2024.findings-emnlp.1003/)
-by Anastasiia Sedova, Robert Litschko, Diego Frassinelli, Benjamin Roth, Barbara Plank. 
+by Anastasiia Sedova*, Robert Litschko*, Diego Frassinelli, Benjamin Roth, and Barbara Plank. 
+(*equal contribution)
 
 For any questions please [get in touch](mailto:anastasiia.sedova@univie.ac.at).
 
 ---
+
+<p align="center">
+  <img src="img.png" alt="ToKnow_or_NotToKnow" width="60%" height="60%">
+</p>
+
 
 ### Citation
 
