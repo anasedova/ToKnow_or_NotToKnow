@@ -1,0 +1,8 @@
+Group the following according to what they all have in common: XXX. Please provide an explanation.
+Group the following according to what they all have in common: XXX.
+Group the following entities: XXX. Please provide an explanation.
+Group the following entities: XXX.
+# Which from the following companies are founded in the 20th century: XXX
+# Which from the following entities have headquarters in Europe: XXX
+# Which from the following companies have headquarters in Europe: XXX
+# Provide the founding years of the following companies and select those which are founded in the 20th century: XXX.

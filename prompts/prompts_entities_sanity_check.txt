@@ -1,0 +1,2 @@
+Tell me about {CATEGORY} XXX.
+# What is the {SPECIFIC_PROPERTY} of {CATEGORY} XXX?
