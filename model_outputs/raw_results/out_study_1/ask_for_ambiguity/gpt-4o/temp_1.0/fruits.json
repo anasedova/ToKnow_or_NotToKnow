@@ -1,0 +1,32 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Can Apple mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "Yes."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Fig mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "Yes."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Mango mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "Yes."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Kiwi mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "Yes."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Papaya mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "No."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Orange mean anything else but a fruit? Answer only with Yes or No.",
+    "response": "Yes."
+  }
+]

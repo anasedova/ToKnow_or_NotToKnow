@@ -1,0 +1,48 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Can Amazon mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Cisco mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes",
+    "response_long": " No, Cisco does not only refer to a geographic location. It is also a well-known brand of networking equipment and technology solutions. The name \"Cisco\" comes from the city name \"San Francisco,\" where the company was founded. However, it has grown into a global organization and its name is now more commonly associated with the company and its products than with the city itself."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Montblanc mean anything else but a geographic location? Answer only with Yes or No.",
+     "response": "Yes",
+    "response_long": " No, Montblanc is not only a geographic location. It is also a well-known brand that manufactures luxury goods, such as writing instruments, watches, leather goods, and jewelry. The name Montblanc comes from the Mont Blanc massif in the Alps, which is the highest peak in Europe. The company was founded in Hamburg, Germany in 1906 and has since become a symbol of fine craftsmanship and elegance."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Patagonia mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": " No, Patagonia is not used to mean anything else besides the geographic region at the southern tip of South America. It's often used to refer to the areas of Argentina and Chile including the Andes mountains and the surrounding plains and plateaus. It's also known for its stunning landscapes and unique wildlife."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Hershey mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes",
+    "response_long": " No, \"Hershey\" does not exclusively refer to a geographic location. It is also known as a popular brand of chocolate products, owned by The Hershey Company, which was founded in the town of Hershey, Pennsylvania."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Nokia mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes",
+    "response_long": " No, Nokia is not only a geographic location. It is also a well-known multinational corporation from Finland, specializing in telecommunications, information technology, and consumer electronics."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Eagle Creek mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes",
+    "response_long": " No, Eagle Creek cannot mean anything else in general usage. It is primarily a geographic location, specifically a creek name occurring in various places in the United States. However, like many place names, it can be used as a proper noun in other contexts, such as brand names (e.g., Eagle Creek luggage)."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Can Prosper mean anything else but a geographic location? Answer only with Yes or No.",
+    "response": "Yes",
+    "response_long": " No, Prosper does not necessarily mean a geographic location. It can also be a name, a concept, or a wish for success and prosperity."
+  }
+]

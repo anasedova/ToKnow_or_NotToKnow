@@ -1,0 +1,382 @@
+[
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Apple have Apple green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Apple have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have deep purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have yellowish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have black color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange-yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have bright green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have golden yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Apple have Apple green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Apple have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have deep purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have yellowish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have black color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange-yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have bright green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have golden yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Apple have Apple green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Apple have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have deep purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have yellowish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have black color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange-yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have bright green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have golden yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Apple have Apple green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Apple have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have deep purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have yellowish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have black color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange-yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have bright green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have golden yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Apple have Apple green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Apple have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No."
+  },
+  {
+    "prompt": "Does a fruit Fig have deep purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have yellowish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "No"
+  },
+  {
+    "prompt": "Does a fruit Fig have black color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have orange-yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Kiwi have bright green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Papaya have golden yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  }
+]

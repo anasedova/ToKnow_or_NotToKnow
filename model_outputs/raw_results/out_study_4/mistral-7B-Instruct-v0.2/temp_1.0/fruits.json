@@ -1,0 +1,562 @@
+[
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some apples can be yellow."
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, apples can be green."
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some apples are red."
+  },
+  {
+    "prompt": "Does a fruit Apple have rose gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Rose gold is a metallic hue, not a fruit color."
+  },
+  {
+    "prompt": "Does a fruit Apple have golden brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a regular apple does not have a golden brown color."
+  },
+  {
+    "prompt": "Does a fruit Apple have space gray color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Space gray is a color used for electronic devices, not for apples."
+  },
+  {
+    "prompt": "Does a fruit Apple have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. Apples do not have a gold color. They come in various shades of red, green, and yellow. Gold is not a typical color for an apple."
+  },
+  {
+    "prompt": "Does a fruit Apple have metallic silver color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is a fruit that comes in various colors, such as red, green, or yellow, but it does not have a metallic silver color."
+  },
+  {
+    "prompt": "Does a fruit Fig have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a fig is not necessarily yellow. Figs come in various colors including green, purple, brown, and black."
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs can be green. However, it's important to note that figs come in various colors, including green, purple, brown, and black, depending on the specific variety."
+  },
+  {
+    "prompt": "Does a fruit Fig have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs have a red color."
+  },
+  {
+    "prompt": "Does a fruit Fig have dark purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some fig varieties have dark purple skin."
+  },
+  {
+    "prompt": "Does a fruit Fig have brownish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some figs have a brownish color."
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a mango does not have an orange color. Mangos can range in color from green to yellow or red when ripe, but they are not orange."
+  },
+  {
+    "prompt": "Does a fruit Mango have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of mangoes can have red skin. However, the flesh inside is usually a various shade of orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos are typically yellow when ripe. However, there are also varieties that can be green, red, or a combination of these colors when ripe. But for an average ripe mango, the answer is yes, it is yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos can have a green skin when they are unripe. However, it's important to note that some varieties of mangos may be yellow or red when ripe, but they still start off as green when unripe. So, the answer is yes, mangos can be green."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Kiwi fruit has a green exterior."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some kiwifruits have a brown or brownish-fuzzy exterior while the interior is green or bright green with small black seeds. However, there are also varieties with a smooth, golden brown or yellow skin. So, the answer depends on the specific type of kiwi."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. A kiwi fruit is typically green or brown with a bright green or red flesh. It does not have a gold color."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have greenish-brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a kiwi fruit does not have a greenish-brown color. It typically has a brown, fuzzy exterior with bright green or golden interior flesh."
+  },
+  {
+    "prompt": "Does a fruit Papaya have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Papayas are typically yellow when they are ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, a papaya can be green when it is unripe. However, when ripe, the outer skin turns yellow or orange. So, the answer to the question as stated is yes, but it's important to note that the color can vary depending on the ripeness of the fruit."
+  },
+  {
+    "prompt": "Does a fruit Papaya have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of papayas have red skin. However, the flesh inside is usually orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a papaya is not orange in color. It can vary from green to yellow when ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a ripe papaya is typically orange or yellow in color. Pink papayas do exist, but they are a different variety and are not as common as the orange or yellow ones."
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes."
+  },
+  {
+    "prompt": "Does a fruit Orange have RGB values:Red 255 Green 165 Blue 0 color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An orange is a fruit and does not have RGB values as it is not an electronic display or image. RGB values are used to specify colors for digital media."
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some apples can be yellow."
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, apples can be green."
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some apples are red."
+  },
+  {
+    "prompt": "Does a fruit Apple have rose gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Rose gold is a metallic hue, not a fruit color."
+  },
+  {
+    "prompt": "Does a fruit Apple have golden brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a regular apple does not have a golden brown color."
+  },
+  {
+    "prompt": "Does a fruit Apple have space gray color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Space gray is a color used for electronic devices, not for apples."
+  },
+  {
+    "prompt": "Does a fruit Apple have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. Apples do not have a gold color. They come in various shades of red, green, and yellow. Gold is not a typical color for an apple."
+  },
+  {
+    "prompt": "Does a fruit Apple have metallic silver color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is a fruit that comes in various colors, such as red, green, or yellow, but it does not have a metallic silver color."
+  },
+  {
+    "prompt": "Does a fruit Fig have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a fig is not necessarily yellow. Figs come in various colors including green, purple, brown, and black."
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs can be green. However, it's important to note that figs come in various colors, including green, purple, brown, and black, depending on the specific variety."
+  },
+  {
+    "prompt": "Does a fruit Fig have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs have a red color."
+  },
+  {
+    "prompt": "Does a fruit Fig have dark purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some fig varieties have dark purple skin."
+  },
+  {
+    "prompt": "Does a fruit Fig have brownish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some figs have a brownish color."
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a mango does not have an orange color. Mangos can range in color from green to yellow or red when ripe, but they are not orange."
+  },
+  {
+    "prompt": "Does a fruit Mango have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of mangoes can have red skin. However, the flesh inside is usually a various shade of orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos are typically yellow when ripe. However, there are also varieties that can be green, red, or a combination of these colors when ripe. But for an average ripe mango, the answer is yes, it is yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos can have a green skin when they are unripe. However, it's important to note that some varieties of mangos may be yellow or red when ripe, but they still start off as green when unripe. So, the answer is yes, mangos can be green."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Kiwi fruit has a green exterior."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some kiwifruits have a brown or brownish-fuzzy exterior while the interior is green or bright green with small black seeds. However, there are also varieties with a smooth, golden brown or yellow skin. So, the answer depends on the specific type of kiwi."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. A kiwi fruit is typically green or brown with a bright green or red flesh. It does not have a gold color."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have greenish-brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a kiwi fruit does not have a greenish-brown color. It typically has a brown, fuzzy exterior with bright green or golden interior flesh."
+  },
+  {
+    "prompt": "Does a fruit Papaya have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Papayas are typically yellow when they are ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, a papaya can be green when it is unripe. However, when ripe, the outer skin turns yellow or orange. So, the answer to the question as stated is yes, but it's important to note that the color can vary depending on the ripeness of the fruit."
+  },
+  {
+    "prompt": "Does a fruit Papaya have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of papayas have red skin. However, the flesh inside is usually orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a papaya is not orange in color. It can vary from green to yellow when ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a ripe papaya is typically orange or yellow in color. Pink papayas do exist, but they are a different variety and are not as common as the orange or yellow ones."
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes."
+  },
+  {
+    "prompt": "Does a fruit Orange have RGB values:Red 255 Green 165 Blue 0 color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An orange is a fruit and does not have RGB values as it is not an electronic display or image. RGB values are used to specify colors for digital media."
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some apples can be yellow."
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, apples can be green."
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some apples are red."
+  },
+  {
+    "prompt": "Does a fruit Apple have rose gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Rose gold is a metallic hue, not a fruit color."
+  },
+  {
+    "prompt": "Does a fruit Apple have golden brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a regular apple does not have a golden brown color."
+  },
+  {
+    "prompt": "Does a fruit Apple have space gray color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Space gray is a color used for electronic devices, not for apples."
+  },
+  {
+    "prompt": "Does a fruit Apple have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. Apples do not have a gold color. They come in various shades of red, green, and yellow. Gold is not a typical color for an apple."
+  },
+  {
+    "prompt": "Does a fruit Apple have metallic silver color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is a fruit that comes in various colors, such as red, green, or yellow, but it does not have a metallic silver color."
+  },
+  {
+    "prompt": "Does a fruit Fig have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a fig is not necessarily yellow. Figs come in various colors including green, purple, brown, and black."
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs can be green. However, it's important to note that figs come in various colors, including green, purple, brown, and black, depending on the specific variety."
+  },
+  {
+    "prompt": "Does a fruit Fig have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs have a red color."
+  },
+  {
+    "prompt": "Does a fruit Fig have dark purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some fig varieties have dark purple skin."
+  },
+  {
+    "prompt": "Does a fruit Fig have brownish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some figs have a brownish color."
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a mango does not have an orange color. Mangos can range in color from green to yellow or red when ripe, but they are not orange."
+  },
+  {
+    "prompt": "Does a fruit Mango have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of mangoes can have red skin. However, the flesh inside is usually a various shade of orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos are typically yellow when ripe. However, there are also varieties that can be green, red, or a combination of these colors when ripe. But for an average ripe mango, the answer is yes, it is yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos can have a green skin when they are unripe. However, it's important to note that some varieties of mangos may be yellow or red when ripe, but they still start off as green when unripe. So, the answer is yes, mangos can be green."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Kiwi fruit has a green exterior."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some kiwifruits have a brown or brownish-fuzzy exterior while the interior is green or bright green with small black seeds. However, there are also varieties with a smooth, golden brown or yellow skin. So, the answer depends on the specific type of kiwi."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. A kiwi fruit is typically green or brown with a bright green or red flesh. It does not have a gold color."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have greenish-brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a kiwi fruit does not have a greenish-brown color. It typically has a brown, fuzzy exterior with bright green or golden interior flesh."
+  },
+  {
+    "prompt": "Does a fruit Papaya have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Papayas are typically yellow when they are ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, a papaya can be green when it is unripe. However, when ripe, the outer skin turns yellow or orange. So, the answer to the question as stated is yes, but it's important to note that the color can vary depending on the ripeness of the fruit."
+  },
+  {
+    "prompt": "Does a fruit Papaya have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of papayas have red skin. However, the flesh inside is usually orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a papaya is not orange in color. It can vary from green to yellow when ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a ripe papaya is typically orange or yellow in color. Pink papayas do exist, but they are a different variety and are not as common as the orange or yellow ones."
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes."
+  },
+  {
+    "prompt": "Does a fruit Orange have RGB values:Red 255 Green 165 Blue 0 color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An orange is a fruit and does not have RGB values as it is not an electronic display or image. RGB values are used to specify colors for digital media."
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some apples can be yellow."
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, apples can be green."
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some apples are red."
+  },
+  {
+    "prompt": "Does a fruit Apple have rose gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Rose gold is a metallic hue, not a fruit color."
+  },
+  {
+    "prompt": "Does a fruit Apple have golden brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a regular apple does not have a golden brown color."
+  },
+  {
+    "prompt": "Does a fruit Apple have space gray color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Space gray is a color used for electronic devices, not for apples."
+  },
+  {
+    "prompt": "Does a fruit Apple have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. Apples do not have a gold color. They come in various shades of red, green, and yellow. Gold is not a typical color for an apple."
+  },
+  {
+    "prompt": "Does a fruit Apple have metallic silver color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is a fruit that comes in various colors, such as red, green, or yellow, but it does not have a metallic silver color."
+  },
+  {
+    "prompt": "Does a fruit Fig have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a fig is not necessarily yellow. Figs come in various colors including green, purple, brown, and black."
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs can be green. However, it's important to note that figs come in various colors, including green, purple, brown, and black, depending on the specific variety."
+  },
+  {
+    "prompt": "Does a fruit Fig have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs have a red color."
+  },
+  {
+    "prompt": "Does a fruit Fig have dark purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some fig varieties have dark purple skin."
+  },
+  {
+    "prompt": "Does a fruit Fig have brownish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some figs have a brownish color."
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a mango does not have an orange color. Mangos can range in color from green to yellow or red when ripe, but they are not orange."
+  },
+  {
+    "prompt": "Does a fruit Mango have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of mangoes can have red skin. However, the flesh inside is usually a various shade of orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos are typically yellow when ripe. However, there are also varieties that can be green, red, or a combination of these colors when ripe. But for an average ripe mango, the answer is yes, it is yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos can have a green skin when they are unripe. However, it's important to note that some varieties of mangos may be yellow or red when ripe, but they still start off as green when unripe. So, the answer is yes, mangos can be green."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Kiwi fruit has a green exterior."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some kiwifruits have a brown or brownish-fuzzy exterior while the interior is green or bright green with small black seeds. However, there are also varieties with a smooth, golden brown or yellow skin. So, the answer depends on the specific type of kiwi."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. A kiwi fruit is typically green or brown with a bright green or red flesh. It does not have a gold color."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have greenish-brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a kiwi fruit does not have a greenish-brown color. It typically has a brown, fuzzy exterior with bright green or golden interior flesh."
+  },
+  {
+    "prompt": "Does a fruit Papaya have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Papayas are typically yellow when they are ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, a papaya can be green when it is unripe. However, when ripe, the outer skin turns yellow or orange. So, the answer to the question as stated is yes, but it's important to note that the color can vary depending on the ripeness of the fruit."
+  },
+  {
+    "prompt": "Does a fruit Papaya have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of papayas have red skin. However, the flesh inside is usually orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a papaya is not orange in color. It can vary from green to yellow when ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a ripe papaya is typically orange or yellow in color. Pink papayas do exist, but they are a different variety and are not as common as the orange or yellow ones."
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes."
+  },
+  {
+    "prompt": "Does a fruit Orange have RGB values:Red 255 Green 165 Blue 0 color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An orange is a fruit and does not have RGB values as it is not an electronic display or image. RGB values are used to specify colors for digital media."
+  },
+  {
+    "prompt": "Does a fruit Apple have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some apples can be yellow."
+  },
+  {
+    "prompt": "Does a fruit Apple have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, apples can be green."
+  },
+  {
+    "prompt": "Does a fruit Apple have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some apples are red."
+  },
+  {
+    "prompt": "Does a fruit Apple have rose gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Rose gold is a metallic hue, not a fruit color."
+  },
+  {
+    "prompt": "Does a fruit Apple have golden brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a regular apple does not have a golden brown color."
+  },
+  {
+    "prompt": "Does a fruit Apple have space gray color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is typically red, green, or yellow in color. Space gray is a color used for electronic devices, not for apples."
+  },
+  {
+    "prompt": "Does a fruit Apple have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. Apples do not have a gold color. They come in various shades of red, green, and yellow. Gold is not a typical color for an apple."
+  },
+  {
+    "prompt": "Does a fruit Apple have metallic silver color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An apple is a fruit that comes in various colors, such as red, green, or yellow, but it does not have a metallic silver color."
+  },
+  {
+    "prompt": "Does a fruit Fig have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a fig is not necessarily yellow. Figs come in various colors including green, purple, brown, and black."
+  },
+  {
+    "prompt": "Does a fruit Fig have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs can be green. However, it's important to note that figs come in various colors, including green, purple, brown, and black, depending on the specific variety."
+  },
+  {
+    "prompt": "Does a fruit Fig have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some figs have a red color."
+  },
+  {
+    "prompt": "Does a fruit Fig have dark purple color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some fig varieties have dark purple skin."
+  },
+  {
+    "prompt": "Does a fruit Fig have brownish color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Some figs have a brownish color."
+  },
+  {
+    "prompt": "Does a fruit Mango have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a mango does not have an orange color. Mangos can range in color from green to yellow or red when ripe, but they are not orange."
+  },
+  {
+    "prompt": "Does a fruit Mango have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of mangoes can have red skin. However, the flesh inside is usually a various shade of orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos are typically yellow when ripe. However, there are also varieties that can be green, red, or a combination of these colors when ripe. But for an average ripe mango, the answer is yes, it is yellow."
+  },
+  {
+    "prompt": "Does a fruit Mango have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Mangos can have a green skin when they are unripe. However, it's important to note that some varieties of mangos may be yellow or red when ripe, but they still start off as green when unripe. So, the answer is yes, mangos can be green."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Kiwi fruit has a green exterior."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some kiwifruits have a brown or brownish-fuzzy exterior while the interior is green or bright green with small black seeds. However, there are also varieties with a smooth, golden brown or yellow skin. So, the answer depends on the specific type of kiwi."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have gold color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. A kiwi fruit is typically green or brown with a bright green or red flesh. It does not have a gold color."
+  },
+  {
+    "prompt": "Does a fruit Kiwi have greenish-brown color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a kiwi fruit does not have a greenish-brown color. It typically has a brown, fuzzy exterior with bright green or golden interior flesh."
+  },
+  {
+    "prompt": "Does a fruit Papaya have yellow color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes. Papayas are typically yellow when they are ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have green color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, a papaya can be green when it is unripe. However, when ripe, the outer skin turns yellow or orange. So, the answer to the question as stated is yes, but it's important to note that the color can vary depending on the ripeness of the fruit."
+  },
+  {
+    "prompt": "Does a fruit Papaya have red color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes, some varieties of papayas have red skin. However, the flesh inside is usually orange or yellow."
+  },
+  {
+    "prompt": "Does a fruit Papaya have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a papaya is not orange in color. It can vary from green to yellow when ripe."
+  },
+  {
+    "prompt": "Does a fruit Papaya have pink color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No, a ripe papaya is typically orange or yellow in color. Pink papayas do exist, but they are a different variety and are not as common as the orange or yellow ones."
+  },
+  {
+    "prompt": "Does a fruit Orange have orange color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " Yes."
+  },
+  {
+    "prompt": "Does a fruit Orange have RGB values:Red 255 Green 165 Blue 0 color? Answer ONLY with Yes or No. Answer based on your internal knowledge. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": " No. An orange is a fruit and does not have RGB values as it is not an electronic display or image. RGB values are used to specify colors for digital media."
+  }
+]

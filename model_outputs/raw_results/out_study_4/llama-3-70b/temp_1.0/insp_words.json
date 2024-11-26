@@ -1,0 +1,482 @@
+[
+  {
+    "prompt": "Does a concept Triumph has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 7/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a  where 1 is extremely concrete and 5 is extremely abstract) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level(with a level of abstractness around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level (3 on a scale of 1-5 of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a extremely high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a low level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a moderate level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate level (at around a 2.5 or 3 on scale from 1-5) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate to high level (around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a moderate to high of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a moderate to high level (around a 7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a around 7 or 8 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a moderate 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a 2 or 3 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a moderate to low level(around 4 or 5 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a moderate to high level(7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a 6/10 level(moderate) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 7/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a  where 1 is extremely concrete and 5 is extremely abstract) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level(with a level of abstractness around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level (3 on a scale of 1-5 of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a extremely high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a low level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a moderate level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate level (at around a 2.5 or 3 on scale from 1-5) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate to high level (around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a moderate to high of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a moderate to high level (around a 7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a around 7 or 8 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a moderate 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a 2 or 3 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a moderate to low level(around 4 or 5 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a moderate to high level(7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a 6/10 level(moderate) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 7/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a  where 1 is extremely concrete and 5 is extremely abstract) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level(with a level of abstractness around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level (3 on a scale of 1-5 of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a extremely high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a low level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a moderate level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate level (at around a 2.5 or 3 on scale from 1-5) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate to high level (around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a moderate to high of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a moderate to high level (around a 7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a around 7 or 8 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a moderate 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a 2 or 3 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a moderate to low level(around 4 or 5 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a moderate to high level(7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a 6/10 level(moderate) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 7/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a  where 1 is extremely concrete and 5 is extremely abstract) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level(with a level of abstractness around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level (3 on a scale of 1-5 of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a extremely high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a low level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a moderate level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate level (at around a 2.5 or 3 on scale from 1-5) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate to high level (around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a moderate to high of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a moderate to high level (around a 7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a around 7 or 8 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a moderate 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a 2 or 3 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a moderate to low level(around 4 or 5 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a moderate to high level(7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a 6/10 level(moderate) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Triumph has a 7/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a  where 1 is extremely concrete and 5 is extremely abstract) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level(with a level of abstractness around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Harmony has a moderate level (3 on a scale of 1-5 of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a extremely high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Genesis has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a low level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vision has a moderate level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate level (at around a 2.5 or 3 on scale from 1-5) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Pioneer has a moderate to high level (around 6 or 7 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Vanguard has a moderate to high of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a moderate to high level (around a 7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a around 7 or 8 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Zenith has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a moderate 6/10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Allure has a a moderate to high level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a 2 or 3 out of 10 level of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Tempo has a moderate to low level(around 4 or 5 out of 10) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a moderate to high level(7 or 8) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  },
+  {
+    "prompt": "Does a concept Fidelity has a 6/10 level(moderate) of abstractness? Answer ONLY with Yes or No. Do not include any additional clarification. If you cannot answer this question, answer No. ",
+    "response": "Yes"
+  }
+]

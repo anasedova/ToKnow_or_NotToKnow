@@ -1,0 +1,147 @@
+0,Amazon,True,
+1,Cisco,True," No, Cisco does not only refer to a geographic location. It is also a well-known brand of networking equipment and technology solutions. The name ""Cisco"" comes from the city name ""San Francisco,"" where the company was founded. However, it has grown into a global organization and its name is now more commonly associated with the company and its products than with the city itself."
+2,Montblanc,True," No, Montblanc is not only a geographic location. It is also a well-known brand that manufactures luxury goods, such as writing instruments, watches, leather goods, and jewelry. The name Montblanc comes from the Mont Blanc massif in the Alps, which is the highest peak in Europe. The company was founded in Hamburg, Germany in 1906 and has since become a symbol of fine craftsmanship and elegance."
+3,Patagonia,False,
+4,Hershey,True," No, ""Hershey"" does not exclusively refer to a geographic location. It is also known as a popular brand of chocolate products, owned by The Hershey Company, which was founded in the town of Hershey, Pennsylvania."
+5,Nokia,True," No, Nokia is not only a geographic location. It is also a well-known multinational corporation from Finland, specializing in telecommunications, information technology, and consumer electronics."
+6,Eagle Creek,True," No, Eagle Creek cannot mean anything else in general usage. It is primarily a geographic location, specifically a creek name occurring in various places in the United States. However, like many place names, it can be used as a proper noun in other contexts, such as brand names (e.g., Eagle Creek luggage)."
+7,Prosper,True," No, Prosper does not necessarily mean a geographic location. It can also be a name, a concept, or a wish for success and prosperity."
+0,Apple,False
+1,Fig,True
+2,Mango,True
+3,Kiwi,False
+4,Papaya,False
+5,Orange,True
+0,Triumph,False
+1,Harmony,False
+2,Genesis,False
+3,Vision,False
+4,Pioneer,False
+5,Vanguard,False
+6,Zenith,False
+7,Allure,False
+8,Tempo,False
+9,Fidelity,False
+0,Jaguar,False
+1,Puma,True
+2,Penguin,True
+3,Greyhound,False
+4,Dove,True
+5,Fox,True
+6,Lynx,True
+0,Ford,False
+1,Disney,False
+2,Tesla,False
+3,Boeing,False
+4,Dell,False
+5,Ferrero,False
+6,Benetton,False
+7,Levi Strauss,False
+8,Versace,False
+9,Philips,False
+0,Amazon," No. In common language usage, when someone says ""Amazon,"" they are usually referring to the e-commerce company and not the mythological character. However, it is true that the company took its name from the Amazon River, which in turn was named after the Amazons, a group of warrior women in Greek mythology.",True
+1,Nike," No, Nike does not mean anything else in general usage. It is most commonly known as the Greek goddess of victory. However, it is also the name of the well-known American multinational corporation that specializes in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The corporation was named after the goddess Nike.",True
+2,Midas,,False
+3,Mars," No, Mars does not exclusively refer to a mythological character. It is also the name of the fourth planet in our solar system.",True
+4,Hermes," No. While Hermes is most commonly known as a figure in Greek mythology, it can also be a given name or a surname, and it's the name of a messenger service and a French luxury brand. However, these are derived from the original mythological context.",True
+5,Hyperion," No, Hyperion does not necessarily refer only to a mythological character. It can also refer to other things such as a genus of moths, a type of telescope, a solar energy system, and a novel by Dan Simmons, among others.",True
+6,Vulcan," No. In contemporary language, Vulcan is primarily known as a mythological character from Roman mythology. While it can have other meanings, such as a term for a type of firearm or a city in Alabama, these are less common and not the primary association.",True
+7,Pegasus,,False
+0,Amazon,True,
+1,Cisco,True," No, Cisco does not only refer to a geographic location. It is also a well-known brand of networking equipment and technology solutions. The name ""Cisco"" comes from the city name ""San Francisco,"" where the company was founded. However, it has grown into a global organization and its name is now more commonly associated with the company and its products than with the city itself."
+2,Montblanc,True," No, Montblanc is not only a geographic location. It is also a well-known brand that manufactures luxury goods, such as writing instruments, watches, leather goods, and jewelry. The name Montblanc comes from the Mont Blanc massif in the Alps, which is the highest peak in Europe. The company was founded in Hamburg, Germany in 1906 and has since become a symbol of fine craftsmanship and elegance."
+3,Patagonia,False,
+4,Hershey,True," No, ""Hershey"" does not exclusively refer to a geographic location. It is also known as a popular brand of chocolate products, owned by The Hershey Company, which was founded in the town of Hershey, Pennsylvania."
+5,Nokia,True," No, Nokia is not only a geographic location. It is also a well-known multinational corporation from Finland, specializing in telecommunications, information technology, and consumer electronics."
+6,Eagle Creek,True," No, Eagle Creek cannot mean anything else in general usage. It is primarily a geographic location, specifically a creek name occurring in various places in the United States. However, like many place names, it can be used as a proper noun in other contexts, such as brand names (e.g., Eagle Creek luggage)."
+7,Prosper,True," No, Prosper does not necessarily mean a geographic location. It can also be a name, a concept, or a wish for success and prosperity."
+0,Apple,False
+1,Fig,True
+2,Mango,True
+3,Kiwi,False
+4,Papaya,False
+5,Orange,True
+0,Triumph,False
+1,Harmony,False
+2,Genesis,False
+3,Vision,False
+4,Pioneer,False
+5,Vanguard,False
+6,Zenith,False
+7,Allure,False
+8,Tempo,False
+9,Fidelity,False
+0,Jaguar,False
+1,Puma,True
+2,Penguin,True
+3,Greyhound,False
+4,Dove,True
+5,Fox,True
+6,Lynx,True
+0,Ford,False
+1,Disney,False
+2,Tesla,False
+3,Boeing,False
+4,Dell,False
+5,Ferrero,False
+6,Benetton,False
+7,Levi Strauss,False
+8,Versace,False
+9,Philips,False
+0,Amazon," No. In common language usage, when someone says ""Amazon,"" they are usually referring to the e-commerce company and not the mythological character. However, it is true that the company took its name from the Amazon River, which in turn was named after the Amazons, a group of warrior women in Greek mythology.",True
+1,Nike," No, Nike does not mean anything else in general usage. It is most commonly known as the Greek goddess of victory. However, it is also the name of the well-known American multinational corporation that specializes in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The corporation was named after the goddess Nike.",True
+2,Midas,,False
+3,Mars," No, Mars does not exclusively refer to a mythological character. It is also the name of the fourth planet in our solar system.",True
+4,Hermes," No. While Hermes is most commonly known as a figure in Greek mythology, it can also be a given name or a surname, and it's the name of a messenger service and a French luxury brand. However, these are derived from the original mythological context.",True
+5,Hyperion," No, Hyperion does not necessarily refer only to a mythological character. It can also refer to other things such as a genus of moths, a type of telescope, a solar energy system, and a novel by Dan Simmons, among others.",True
+6,Vulcan," No. In contemporary language, Vulcan is primarily known as a mythological character from Roman mythology. While it can have other meanings, such as a term for a type of firearm or a city in Alabama, these are less common and not the primary association.",True
+7,Pegasus,,False
+0,Amazon,True,
+1,Cisco,True," No, Cisco does not only refer to a geographic location. It is also a well-known brand of networking equipment and technology solutions. The name ""Cisco"" comes from the city name ""San Francisco,"" where the company was founded. However, it has grown into a global organization and its name is now more commonly associated with the company and its products than with the city itself."
+2,Montblanc,True," No, Montblanc is not only a geographic location. It is also a well-known brand that manufactures luxury goods, such as writing instruments, watches, leather goods, and jewelry. The name Montblanc comes from the Mont Blanc massif in the Alps, which is the highest peak in Europe. The company was founded in Hamburg, Germany in 1906 and has since become a symbol of fine craftsmanship and elegance."
+3,Patagonia,False,
+4,Hershey,True," No, ""Hershey"" does not exclusively refer to a geographic location. It is also known as a popular brand of chocolate products, owned by The Hershey Company, which was founded in the town of Hershey, Pennsylvania."
+5,Nokia,True," No, Nokia is not only a geographic location. It is also a well-known multinational corporation from Finland, specializing in telecommunications, information technology, and consumer electronics."
+6,Eagle Creek,True," No, Eagle Creek cannot mean anything else in general usage. It is primarily a geographic location, specifically a creek name occurring in various places in the United States. However, like many place names, it can be used as a proper noun in other contexts, such as brand names (e.g., Eagle Creek luggage)."
+7,Prosper,True," No, Prosper does not necessarily mean a geographic location. It can also be a name, a concept, or a wish for success and prosperity."
+0,Apple,False
+1,Fig,True
+2,Mango,True
+3,Kiwi,False
+4,Papaya,False
+5,Orange,True
+0,Triumph,False
+1,Harmony,False
+2,Genesis,False
+3,Vision,False
+4,Pioneer,False
+5,Vanguard,False
+6,Zenith,False
+7,Allure,False
+8,Tempo,False
+9,Fidelity,False
+0,Jaguar,False
+1,Puma,True
+2,Penguin,True
+3,Greyhound,False
+4,Dove,True
+5,Fox,True
+6,Lynx,True
+0,Ford,False
+1,Disney,False
+2,Tesla,False
+3,Boeing,False
+4,Dell,False
+5,Ferrero,False
+6,Benetton,False
+7,Levi Strauss,False
+8,Versace,False
+9,Philips,False
+0,Amazon," No. In common language usage, when someone says ""Amazon,"" they are usually referring to the e-commerce company and not the mythological character. However, it is true that the company took its name from the Amazon River, which in turn was named after the Amazons, a group of warrior women in Greek mythology.",True
+1,Nike," No, Nike does not mean anything else in general usage. It is most commonly known as the Greek goddess of victory. However, it is also the name of the well-known American multinational corporation that specializes in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The corporation was named after the goddess Nike.",True
+2,Midas,,False
+3,Mars," No, Mars does not exclusively refer to a mythological character. It is also the name of the fourth planet in our solar system.",True
+4,Hermes," No. While Hermes is most commonly known as a figure in Greek mythology, it can also be a given name or a surname, and it's the name of a messenger service and a French luxury brand. However, these are derived from the original mythological context.",True
+5,Hyperion," No, Hyperion does not necessarily refer only to a mythological character. It can also refer to other things such as a genus of moths, a type of telescope, a solar energy system, and a novel by Dan Simmons, among others.",True
+6,Vulcan," No. In contemporary language, Vulcan is primarily known as a mythological character from Roman mythology. While it can have other meanings, such as a term for a type of firearm or a city in Alabama, these are less common and not the primary association.",True
+7,Pegasus,,False

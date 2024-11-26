@@ -1,0 +1,22 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Group the following according to what they all have in common: Jaguar, Penguin, Puma, Greyhound, Fox, Dove, Lynx. Please provide an explanation.",
+    "response": "Jaguar, Puma, Lynx - These three animals belong to the cat family (Felidae) and are all carnivorous predators.\n\nPenguin, Dove - These two animals are birds.\n\nGreyhound - This is a breed of dog known for its speed and agility.\n\nFox - This is a type of mammal, specifically a carnivorous predator in the Canidae family."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following according to what they all have in common: Jaguar, Fox, Dove, Penguin, Puma, Lynx, Greyhound.",
+    "response": "These animals can be grouped based on the fact that they are all types of mammals."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following entities: Penguin, Puma, Jaguar, Dove, Lynx, Fox, Greyhound. Please provide an explanation.",
+    "response": "The entities can be grouped based on their classification as either land animals or birds. \n\nGroup 1: Land Animals\n1. Puma\n2. Jaguar\n3. Lynx\n4. Fox\n5. Greyhound\n\nGroup 2: Bird\n1. Penguin\n2. Dove\n\nThe land animals include Puma, Jaguar, Lynx, Fox, and Greyhound as they are all mammals that live on land. The birds in this list include Penguin and Dove since they are both avian species."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following entities: Jaguar, Lynx, Penguin, Fox, Dove, Greyhound, Puma.",
+    "response": "Here are the entities grouped by their common traits:\n\nGroup 1: Animals with spots or similar coats\n- Jaguar\n- Lynx\n- Puma\n\nGroup 2: Birds\n- Penguin\n- Dove\n\nGroup 3: Animals known for their speed\n- Greyhound\n\nGroup 4: Animals in the Canidae family\n- Fox"
+  }
+]
