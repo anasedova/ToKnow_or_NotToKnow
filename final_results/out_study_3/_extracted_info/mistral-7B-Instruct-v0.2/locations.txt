@@ -1,0 +1,9 @@
+entity,info,info
+Amazon,807737395sq.m.,6.7 trillion square meters
+Cisco,0.000494sq.m.,10282812sq.m.
+Montblanc,15204888.85 square meters,1510 square kilometers,99.5 square kilometers
+Patagonia,1078381000000 square meters, 880000 square kilometers
+Hershey,14.4sq.km,3472433.5sq.m.,811000sq.m.
+Nokia,144000sq.m.,78177 square meters
+Eagle Creek,47sq.km,135000000sq.m
+Prosper,817668691sq.m.

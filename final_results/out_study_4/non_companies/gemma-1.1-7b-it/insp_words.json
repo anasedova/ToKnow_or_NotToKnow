@@ -1,0 +1,70 @@
+{
+  "Triumph": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Harmony": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Genesis": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    },
+    "middle level": {
+      "True": 5,
+      "False": 0
+    },
+    "relatively high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vision": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Pioneer": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vanguard": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Zenith": {
+    "high level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Allure": {
+    "moderate level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Tempo": {
+    "intermediate level": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fidelity": {
+    "moderate level": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "Ford": {
+    "July 30 1863": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Disney": {
+    "October 16 1923": {
+      "True": 0,
+      "False": 5
+    },
+    "December 5 1901": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Tesla": {
+    "1887": {
+      "True": 0,
+      "False": 5
+    },
+    "July 10 1856": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Boeing": {
+    "July 15 1916": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Dell": {
+    "February 1 1984": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Ferrero": {
+    "July 22 1843": {
+      "True": 0,
+      "False": 5
+    },
+    "November 29 1873": {
+      "True": 0,
+      "False": 5
+    },
+    "December 13 1911": {
+      "True": 0,
+      "False": 5
+    },
+    "February 14 1829": {
+      "True": 0,
+      "False": 5
+    },
+    "September 26 1921": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Benetton": {
+    "1965": {
+      "True": 0,
+      "False": 5
+    },
+    "January 2 1965": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Levi Strauss": {
+    "September 26 1829": {
+      "True": 0,
+      "False": 5
+    },
+    "February 26 1829": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Versace": {
+    "December 2 1946": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Philips": {
+    "May 12 1891": {
+      "True": 0,
+      "False": 5
+    }
+  }
+}

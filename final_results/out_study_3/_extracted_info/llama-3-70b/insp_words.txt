@@ -1,0 +1,11 @@
+entity,info,info
+Triumph,7/10 level,6/10 level
+Harmony,moderate level (3 on a scale of 1-5, where 1 is extremely concrete and 5 is extremely abstract),moderate level(with a level of abstractness around 6 or 7 out of 10)
+Genesis,high level,extremely high level
+Vision,low level,moderate level,high level,6/10 level
+Pioneer,moderate to high level (around 6 or 7 out of 10),moderate level (at around a 2.5 or 3 on scale from 1-5)
+Vanguard,6/10 level,moderate to high
+Zenith,a moderate to high level,around 7 or 8 out of 10 level,moderate to high level (around a 7 or 8)
+Allure,moderate 6/10 level,a moderate to high level
+Tempo,2 or 3 out of 10 level,moderate to low level(around 4 or 5 out of 10)
+Fidelity,moderate to high level(7 or 8),6/10 level(moderate)

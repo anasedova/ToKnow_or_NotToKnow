@@ -1,0 +1,6 @@
+entity,info,info
+Cisco,company,no answer in real time for a geographic location?
+Montblanc,no asnwer,wrong answer by model(roughly 645sq.km)
+Hershey,wrong answer, wiki: 14.30 sq mi (37.03 km2)
+Eagle Creek,too many places in US and CA, f.e. park is 16sq.km.,no answer in real time for a geographic location?
+Prosper,no answer in real time for a geographic location

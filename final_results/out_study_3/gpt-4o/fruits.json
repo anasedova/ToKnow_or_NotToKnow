@@ -1,0 +1,146 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Apple",
+    "response": "Apple Inc. was founded on April 1, 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Apple",
+    "response": "Apple Inc. was founded on April 1, 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Apple",
+    "response": "Apples come in a variety of colors. Common colors include:\n\n1. Red: Such as Red Delicious and Fuji.\n2. Green: Such as Granny Smith.\n3. Yellow: Such as Golden Delicious.\n\nThese colors can also have variations and patterns, such as stripes or blushes, depending on the specific variety of apple.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Apple",
+    "response": "An apple can come in several different colors depending on its variety. Common colors include:\n\n1. Red (e.g., Red Delicious, Gala)\n2. Green (e.g., Granny Smith)\n3. Yellow (e.g., Golden Delicious)\n\nSome apples may also have a mixture of these colors, such as red with green or yellow highlights.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Fig",
+    "response": "Fig was founded in the year 2015. It is a crowdfunding platform specifically designed for video games.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Fig",
+    "response": "The company Fig was founded in 2015.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Fig",
+    "response": "Figs can vary in color depending on their variety and ripeness. Common colors for figs include:\n\n- Green or yellow (unripe or certain varieties like Kadota and Adriatic)\n- Purple or blue (such as the Black Mission fig)\n- Brown or bronze (like the Brown Turkey fig)\n- Dark purple to black (often the case when fully ripe for many varieties)\n\nThe interior color of figs can also range from pink to red to amber. If you have a specific variety in mind, I can provide more precise information.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Fig",
+    "response": "Figs can come in a variety of colors depending on the variety and ripeness. Common colors for figs include:\n\n- Purple or black (e.g., Black Mission figs)\n- Green (e.g., Kadota figs)\n- Brown (e.g., Brown Turkey figs)\n- Yellow or golden (e.g., Calimyrna figs)\n\nThe interior flesh can also range in color from a light pink or strawberry red to a deeper red or purple.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Mango",
+    "response": "Mango, the Spanish clothing design and manufacturing company, was founded in 1984.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Mango",
+    "response": "The fashion retailer Mango was founded in 1984 in Barcelona, Spain.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Mango",
+    "response": "Mangoes can vary in color depending on their variety and ripeness. Common colors include:\n\n1. Green: Unripe mangoes are often green.\n2. Yellow: Many ripe mangoes turn a rich, golden yellow.\n3. Red/Orange: Some mangoes have patches of red or orange, especially when exposed to the sun.\n4. A mix of Green, Yellow, Red, and Orange: Often, mangoes exhibit a combination of these colors as they ripen.\n\nIn general, a ripe mango is typically a blend of yellow and red/orange hues, signaling that it is ready to eat.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Mango",
+    "response": "A ripe mango typically has a combination of colors, including shades of yellow, orange, and sometimes red or green, depending on the variety of the mango. The skin color can be an indicator of its ripeness and variety.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Kiwi",
+    "response": "Kiwi.com, formerly known as Skypicker, was founded in 2012.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Kiwi",
+    "response": "Kiwi, also known as Kiwi.com, is a travel technology company that was founded in 2012 by Oliver Dlouh\u00fd and Jozef K\u00e9pesi. It is known for its innovative search tools that help travelers find the best flight and travel deals.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Kiwi",
+    "response": "Kiwis have a distinctive color both inside and out. The outside skin of a kiwi is typically a brown, fuzzy texture. When you cut open the fruit, the flesh inside is a vibrant green with tiny, black seeds arranged in a circular pattern around a white or slightly yellow center.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Kiwi",
+    "response": "The flesh of a kiwi is typically green with tiny black seeds scattered throughout. The skin of a kiwi is generally brown and fuzzy. There is also a variety of kiwi called \"golden kiwi\" or \"yellow kiwi,\" which has yellow flesh and a smoother, less fuzzy skin.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Papaya",
+    "response": "Could you please clarify which specific \"Papaya\" you are referring to? There are various businesses and entities with the name \"Papaya.\" It could be a company, an app, or even the fruit itself in relation to its agricultural use. Providing more context would help me give you the correct information.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Papaya",
+    "response": "Papaya Global, a company that provides automated global payroll and workforce management solutions, was founded in 2016. If you were referring to a different company named Papaya, please provide more context or specify the industry or location, so I can help you more accurately.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Papaya",
+    "response": "Papaya typically has a color that ranges from green (when unripe) to a mix of orange, yellow, and sometimes a reddish hue when ripe. The flesh inside a ripe papaya is usually a vibrant orange or deep yellow-orange color.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Papaya",
+    "response": "The color of a papaya can vary depending on its ripeness. When unripe, the skin is typically green. As it ripens, the skin turns yellow to orange. The flesh inside a ripe papaya is usually a vibrant orange or reddish color.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Orange",
+    "response": "Orange S.A., the telecommunications company, was originally founded in 1988 as a subsidiary of the French state-owned enterprise France T\u00e9l\u00e9com. It was rebranded as Orange in 2000.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Orange",
+    "response": "The telecommunications company Orange was founded in 1994 in the United Kingdom. Initially, it was a brand under the Hutchison Whampoa company. Over the years, Orange has gone through several ownership changes and mergers, including becoming part of the France T\u00e9l\u00e9com group in 2000.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Orange",
+    "response": "The color for \"orange\" is a blend of red and yellow. It is a warm, vibrant hue commonly associated with the fruit of the same name. In hex code, the standard color for orange is represented as #FFA500.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Orange",
+    "response": "The color of a fruit orange is, as the name suggests, orange.",
+    "annotation_study_3": "True"
+  }
+]

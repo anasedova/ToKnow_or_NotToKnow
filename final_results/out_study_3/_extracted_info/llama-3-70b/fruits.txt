@@ -1,0 +1,7 @@
+entity,info,info
+Apple,Silver/Space Gray,red,green,yellow,purple
+Fig,deep purple,brown,green,yellow,black
+Mango,yellow-orange,#FFC07F,RGB 255 192 127,Pantone 158C,golden,red,pink
+Kiwi,green,brown
+Papaya,orange,yellow,greenish-yellow
+Orange,#FFA500,orange

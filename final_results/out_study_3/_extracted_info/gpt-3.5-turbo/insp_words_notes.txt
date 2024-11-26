@@ -1,0 +1,5 @@
+entity,info
+Harmony,в одном ответе говорит о high(state of peaceful coexistence) и о concrete level(musical composition)
+Genesis,речь идёт о book in the Bible, specifically the first book of the Old Testament
+Vanguard,financial investment company
+Allure,моделька не дала ответа,рассуждает о термине(The concept of \"Allure\" is abstract....)

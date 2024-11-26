@@ -1,0 +1,56 @@
+{
+  "Jaguar": {
+    "1945": {
+      "True": 5,
+      "False": 0
+    },
+    "1922": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Puma": {
+    "1948": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Penguin": {
+    "1935": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Greyhound": {
+    "1914": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Dove": {
+    "1957": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fox": {
+    "1986": {
+      "True": 5,
+      "False": 0
+    },
+    "2019": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Lynx": {
+    "1983": {
+      "True": 4,
+      "False": 1
+    },
+    "1992": {
+      "True": 2,
+      "False": 3
+    }
+  }
+}

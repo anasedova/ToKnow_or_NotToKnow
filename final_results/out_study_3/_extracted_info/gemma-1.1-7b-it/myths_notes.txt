@@ -1,0 +1,4 @@
+entity,info
+Amazon,corporation
+Nike,brand
+Mars,planet

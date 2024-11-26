@@ -1,0 +1,54 @@
+{
+  "Amazon": {
+    "1994": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Cisco": {
+    "1984": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Montblanc": {
+    "1906": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Patagonia": {
+    "1973": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hershey": {
+    "1894": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nokia": {
+    "1865": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Eagle Creek": {
+    "1975": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Prosper": {
+    "2006": {
+      "True": 5,
+      "False": 0
+    },
+    "2005": {
+      "True": 3,
+      "False": 2
+    }
+  }
+}

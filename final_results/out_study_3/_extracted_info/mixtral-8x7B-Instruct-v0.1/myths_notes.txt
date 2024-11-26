@@ -1,0 +1,5 @@
+entity,info,info
+Amazon,corp
+Midas,long passage commonly represented in art and literature as a man, but who does not have a biological sex or a gender identity in the same way that a real person does
+Mars,planet
+Vulkan,Star Track term

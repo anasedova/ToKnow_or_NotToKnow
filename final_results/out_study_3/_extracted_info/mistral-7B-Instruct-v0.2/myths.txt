@@ -1,0 +1,9 @@
+entity,info,info
+Amazon,female
+Nike,female,female
+Midas,male,male
+Mars,male
+Hermes,male,male
+Hyperion,male
+Vulcan,male
+Pegasus,male

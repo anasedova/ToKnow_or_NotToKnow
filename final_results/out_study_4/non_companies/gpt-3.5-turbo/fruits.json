@@ -1,0 +1,90 @@
+{
+  "Apple": {
+    "red": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 0,
+      "False": 5
+    },
+    "Apple green": {
+      "True": 5,
+      "False": 0
+    },
+    "yellow": {
+      "True": 0,
+      "False": 5
+    },
+    "pink": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Fig": {
+    "deep purple": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 2,
+      "False": 3
+    },
+    "yellowish": {
+      "True": 0,
+      "False": 5
+    },
+    "black": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Mango": {
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "orange": {
+      "True": 5,
+      "False": 0
+    },
+    "orange-yellow": {
+      "True": 5,
+      "False": 0
+    },
+    "yellow": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Kiwi": {
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "brown": {
+      "True": 5,
+      "False": 0
+    },
+    "bright green": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Papaya": {
+    "orange": {
+      "True": 5,
+      "False": 0
+    },
+    "golden yellow": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Orange": {
+    "orange": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

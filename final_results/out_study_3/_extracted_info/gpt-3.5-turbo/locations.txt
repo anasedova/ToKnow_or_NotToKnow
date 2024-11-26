@@ -1,0 +1,9 @@
+entity,info,info
+Amazon,5500000000000sq.m.
+Cisco,
+Montblanc,12200000sq.m.
+Patagonia,1043076sq.km
+Hershey,14400sq.m.,30600sq.m.
+Nokia,347.81sq.km
+Eagle Creek,
+Prosper,

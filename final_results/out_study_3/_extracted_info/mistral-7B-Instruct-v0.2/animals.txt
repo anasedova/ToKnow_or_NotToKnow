@@ -1,0 +1,8 @@
+entity,info,info
+Jaguar,155 mph,177 mph,161 mph,130 mph,124 mph,35 to 50 miles per hour (56 to 80 kilometers per hour),55 mph (88 kph)
+Puma,40-60 kilometers per hour (around 25-37 miles per hour),80 kilometers per hour (around 50 miles per hour)
+Penguin,22 mph (35 km/h),15 mph (24 km/h),6.5 mph (10 km/h),5 mph (8 km/h),15 miles per hour (24 kilometers per hour),6.5 miles per hour (10.5 kilometers per hour),6 miles per hour (9.7 kilometers per hour),15 miles per hour (24 kilometers per hour)
+Greyhound,60-65 miles per hour (97-105 kilometers per hour),45 miles per hour (72 kilometers per hour)
+Dove,24-35 miles per hour (38-56 kilometers per hour)
+Fox,45 miles per hour (72 kilometers per hour),20 miles per hour (32 kilometers per hour),20 miles per hour (32 kilometers per hour),20-40 miles per hour (32-64 kilometers per hour),15-20 miles per hour (24-32 kilometers per hour)
+Lynx,30 miles per hour (48 kilometers per hour),50 kilometers per hour (around 31 miles per hour),20-40 kilometers per hour (around 12-25 miles per hour)

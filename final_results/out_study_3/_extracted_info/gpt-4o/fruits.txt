@@ -1,0 +1,8 @@
+entity,info,info
+Apple,red,green,yellow
+Fig,green,yellow,purple,blue,brown,bronze,dark purple,black,pinkr,red,amber,yellow,golden,light pink,strawberry red,deeper red
+Mango,yellow,orange,red,green,orange
+Kiwi,brown,vibrant green
+Papaya,green,orange,yellow,reddish
+Orange,#FFA500,orange
+

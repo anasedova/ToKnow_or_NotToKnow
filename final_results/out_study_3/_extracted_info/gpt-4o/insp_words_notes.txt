@@ -1,0 +1,9 @@
+entity,info
+Genesis,The Book of Genesis
+Vision,can vary(Low,High, very high,medium)
+Pioneer,can range(concept,company,person)
+Vanguard,most abstract because it deals with concepts of leadership and innovation on a broad societal scale.\n\nOverall, the level of abstractness can span from concrete (a specific company or military unit) to highly abstract (leading change and innovation in a society).
+Zenith,can range from very concrete in scientific and literal contexts to highly abstract in metaphorical and philosophical contexts
+Allure,пускается в рассуждения о самом концепте(..is an abstract concept...)
+Tempo,can exhibit different levels of abstractness depending on whether it is used in a specific measurable context or a more generalized conceptual one.
+Fidelity,ranges from highly abstract to quite concrete

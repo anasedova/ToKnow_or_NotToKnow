@@ -1,0 +1,170 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Jaguar",
+    "response": "Jaguar was founded in 1922 as the Swallow Sidecar Company by William Lyons and William Walmsley. It wasn't until 1945 that the company changed its name to Jaguar Cars Ltd.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Jaguar",
+    "response": "The company Jaguar was founded in 1922 as the Swallow Sidecar Company by William Lyons and William Walmsley. It wasn't until 1945 that the company changed its name to Jaguar Cars Ltd.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Jaguar",
+    "response": "You're referring to the speed of Jaguar cars!\n\nJaguar is a luxury car brand known for its high-performance vehicles. The top speed of a Jaguar car can vary depending on the model and its engine. Here are some top speeds for some popular Jaguar models:\n\n* Jaguar F-Type:\n\t+ F-Type Coupe: 171 mph (275 km/h)\n\t+ F-Type Convertible: 170 mph (274 km/h)\n\t+ F-Type SVR Coupe: 200 mph (322 km/h)\n\t+ F-Type SVR Convertible: 195 mph (314 km/h)\n* Jaguar XE:\n\t+ XE S: 155 mph (250 km/h)\n\t+ XE SV Project 8: 200 mph (322 km/h)\n* Jaguar XF:\n\t+ XF S: 155 mph (250 km/h)\n\t+ XF SVR: 190 mph (306 km/h)\n* Jaguar XJ:\n\t+ XJ Supersport: 155 mph (250 km/h)\n\t+ XJ SVR: 190 mph (306 km/h)\n* Jaguar I-PACE:\n\t+ I-PACE HSE: 124 mph (200 km/h)\n\t+ I-PACE SVR: 151 mph (243 km/h)\n\nPlease note that these top speeds are electronically limited and might vary depending on the market and region.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Jaguar",
+    "response": "The speed of a jaguar can vary depending on the circumstances, but here are some approximate speed ranges for jaguars:\n\n* Top speed: Up to 50-60 miles per hour (80-97 kilometers per hour)\n* Running speed: 40-50 miles per hour (64-80 kilometers per hour)\n* Hunting speed: 20-30 miles per hour (32-48 kilometers per hour)\n* Walking speed: 5-10 miles per hour (8-16 kilometers per hour)\n\nKeep in mind that these speeds are estimates and can vary depending on the individual jaguar, its age, health, and the terrain it's navigating. Jaguars are known for their agility, power, and speed, making them one of the fastest land animals in the Americas.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Puma",
+    "response": "Puma was founded in 1948 by Rudolf Dassler, following a split with his brother Adolf Dassler, who went on to found Adidas.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Puma",
+    "response": "Puma was founded in 1948 by Rudolf Dassler, following a split with his brother Adolf Dassler, who went on to start Adidas.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Puma",
+    "response": "You're referring to the animal!\n\nThe average running speed of a puma (also known as a cougar or mountain lion) is around 40-50 km/h (25-31 mph). However, they can reach speeds of up to 70-80 km/h (43-50 mph) when chasing prey or in short bursts.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Puma",
+    "response": "Pumas, also known as cougars or mountain lions, are agile and powerful predators. According to various sources, the running speed of a puma can reach up to:\n\n* 45-50 km/h (28-31 mph) over short distances, such as when chasing prey.\n* 30-40 km/h (18-25 mph) for longer distances, such as when traveling or stalking.\n\nSome sources even suggest that pumas can reach speeds of up to 60 km/h (37 mph) in short, high-intensity sprints. However, these speeds are not sustained for long periods.\n\nKeep in mind that pumas are adapted to steep and rocky terrain, and their speed and agility are optimized for navigating their native habitats, rather than achieving high speeds on flat ground.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Penguin",
+    "response": "Penguin Books was founded in 1935 by Allen Lane.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Penguin",
+    "response": "Penguin Books was founded in 1935 by Allen Lane.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Penguin",
+    "response": "Penguins are flightless birds, but they are excellent swimmers and can move efficiently on land and in water. Here are some speed values for penguins:\n\n* On land:\n\t+ Walking: 1.5-2.5 km/h (0.9-1.5 mph)\n\t+ Waddling: 2-4 km/h (1.2-2.5 mph)\n\t+ Tobogganing (on belly): up to 25-30 km/h (15.5-18.6 mph)\n* In water:\n\t+ Swimming: up to 15-25 km/h (9.3-15.5 mph)\n\t+ Diving: up to 36 km/h (22.4 mph) when chasing prey or escaping predators\n\nKeep in mind that these speeds can vary depending on the species of penguin and the circumstances.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Penguin",
+    "response": "Penguins are flightless birds, but they are excellent swimmers and can move efficiently on land and in water. Here are some speed values for penguins:\n\n* On land:\n\t+ Walking: 1.5-2.5 km/h (0.9-1.5 mph)\n\t+ Waddling: 2-4 km/h (1.2-2.5 mph)\n\t+ Tobogganing (on belly): up to 15-20 km/h (9-12 mph)\n* In water:\n\t+ Cruising: 1-5 km/h (0.6-3.1 mph)\n\t+ Swimming: 5-15 km/h (3.1-9.3 mph)\n\t+ Diving: up to 25-30 km/h (15.5-18.6 mph) (some species can reach speeds of up to 60 km/h or 37.3 mph when chasing prey)\n\nKeep in mind that these speed values can vary depending on the species of penguin, the terrain, and the situation.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Greyhound",
+    "response": "Greyhound was founded in 1914.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Greyhound",
+    "response": "Greyhound Lines, Inc. was founded in 1914. It was originally established as the Mesaba Transportation Company in Hibbing, Minnesota, and later changed its name to Greyhound Lines in 1926.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Greyhound",
+    "response": "Greyhound's bus speeds can vary depending on the route, traffic, and road conditions. However, according to Greyhound's website, their buses typically operate at the following speeds:\n\n* Highway driving: 65-70 mph (105-113 km/h)\n* Urban driving: 40-50 mph (64-80 km/h)\n\nGreyhound's buses are equipped with engines that produce around 300-400 horsepower, which allows them to maintain a comfortable cruising speed on highways. However, actual speeds may be lower due to factors such as traffic congestion, roadwork, and weather conditions.\n\nIt's worth noting that Greyhound has implemented safety measures to ensure the well-being of their passengers, including:\n\n* Electronic speed limiters that prevent the bus from exceeding 70 mph (113 km/h)\n* GPS tracking and monitoring systems to ensure safe driving practices\n* Regular maintenance and inspections to ensure the buses are in good working condition\n\nOverall, Greyhound's focus is on providing a safe and comfortable ride for their passengers, rather than trying to achieve high speeds.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Greyhound",
+    "response": "Greyhounds are bred for speed, and they are indeed one of the fastest land animals on Earth!\n\nThe top speed of a Greyhound can reach up to:\n\n* 45 miles per hour (72 kilometers per hour)\n* Some Greyhounds have been clocked at speeds of up to 46-48 miles per hour (74-77 kilometers per hour) over short distances.\n\nGreyhounds can accelerate from 0 to 45 miles per hour in just 30 seconds, making them incredibly fast accelerators as well!\n\nIt's worth noting that Greyhounds are built for short bursts of speed, and they can sustain their top speed for only about 30 seconds before they need to slow down to catch their breath. However, even with their short sprinting ability, Greyhounds are still unmatched in terms of speed among land animals.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Dove",
+    "response": "Dove was founded in 1957.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Dove",
+    "response": "Dove was founded in 1957 by Lever Brothers. However, the origins of the company date back to 1885 when William Hesketh Lever and his brother James founded Lever Brothers in the UK. They initially manufactured soap, and over the years, the company grew and expanded its product line. In 1957, they introduced the Dove brand, which has since become a well-known and popular personal care brand.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Dove",
+    "response": "You're referring to the bird!\n\nThe average cruising speed of a Dove (family Columbidae) is around 35-45 km/h (22-28 mph). However, some species of Doves can reach speeds of up to:\n\n* Mourning Dove: 55-65 km/h (34-40 mph)\n* White-winged Dove: 50-60 km/h (31-37 mph)\n* Eurasian Collared-Dove: 40-50 km/h (25-31 mph)\n\nKeep in mind that these speeds can vary depending on the species, wind conditions, and the purpose of their flight (e.g., migration, foraging, or escape).",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Dove",
+    "response": "The speed of a dove can vary depending on the species, but here are some general speed ranges for different types of doves:\n\n* Mourning Dove: Up to 55-60 km/h (34-37 mph)\n* White-winged Dove: Up to 50-60 km/h (31-37 mph)\n* Eurasian Collared-Dove: Up to 45-55 km/h (28-34 mph)\n* Rock Dove (also known as Pigeon): Up to 80-100 km/h (50-62 mph) when in flight, but average cruising speed is around 40-50 km/h (25-31 mph)\n\nIt's worth noting that doves are not typically known for their speed, and they usually fly at a relatively leisurely pace. However, they can accelerate quickly when threatened or during courtship displays.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Fox",
+    "response": "Fox Broadcasting Company was founded on October 9, 1986.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Fox",
+    "response": "There are actually multiple companies with the name \"Fox\". Here are a few:\n\n* 20th Century Fox (founded in 1915 as Fox Film Corporation, renamed 20th Century-Fox Film Corporation in 1935)\n* Fox Corporation (founded in 2019 as a spin-off of 21st Century Fox)\n* Fox News (founded in 1996 as a subsidiary of News Corporation, now a subsidiary of Fox Corporation)\n\nIf you're referring to a different company with the name \"Fox\", please let me know and I'll do my best to provide the founding year!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Fox",
+    "response": "You're referring to the speed of the Fox, the animal!\n\nThe speed of a fox can vary depending on the species, but here are some approximate speeds for different types of foxes:\n\n* Red Fox: Up to 30-40 miles per hour (48-64 kilometers per hour)\n* Arctic Fox: Up to 30 miles per hour (48 kilometers per hour)\n* Gray Fox: Up to 25-30 miles per hour (40-48 kilometers per hour)\n* Fennec Fox: Up to 25 miles per hour (40 kilometers per hour)\n* Swift Fox: Up to 30-40 miles per hour (48-64 kilometers per hour)\n\nKeep in mind that these speeds are based on short sprints, and foxes can't maintain such high speeds for long periods. They're generally more adapted for short, quick bursts of speed rather than long-distance running.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Fox",
+    "response": "The speed of a fox can vary depending on the species, but here are some approximate speed ranges for different types of foxes:\n\n* Red Fox: Up to 30-40 mph (48-64 km/h)\n* Arctic Fox: Up to 30-45 mph (48-72 km/h)\n* Gray Fox: Up to 28-35 mph (45-56 km/h)\n* Fennec Fox: Up to 25-30 mph (40-48 km/h)\n* Swift Fox: Up to 30-40 mph (48-64 km/h)\n* Kit Fox: Up to 25-35 mph (40-56 km/h)\n\nIt's worth noting that foxes are also excellent sprinters and can accelerate quickly to catch prey or escape predators. They can reach speeds of up to 45-50 mph (72-80 km/h) over short distances.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Lynx",
+    "response": "Lynx is a brand of deodorant and personal care products, and it was founded in 1952 by Unilever in the United Kingdom. It was originally marketed as a women's deodorant, but it later expanded to include men's deodorants and other personal care products.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Lynx",
+    "response": "There are multiple companies named Lynx, so it's possible that you're referring to one of the following:\n\n1. Lynx (guitar company): Lynx is an American guitar company founded in 2001.\n2. Lynx (personal care): Lynx is a personal care brand owned by Unilever, founded in 1985 (originally as Axe in France, later rebranded as Lynx in the UK and other markets).\n3. Lynx (forklifts): Lynx is a fork lift truck manufacturing company, founded in 1964 in the UK.\n\nIf you're referring to a different company, please provide more context or information, and I'll do my best to provide the founding year.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for Lynx",
+    "response": "You're referring to the lynx, a wild cat species!\n\nThe speed of a lynx can vary depending on the species, but here are some approximate speed ranges for different lynx species:\n\n* Eurasian lynx (Lynx lynx): up to 50-60 km/h (31-37 mph)\n* Canadian lynx (Lynx canadensis): up to 45-50 km/h (28-31 mph)\n* Iberian lynx (Lynx pardinus): up to 40-50 km/h (25-31 mph)\n* Bobcat (Lynx rufus): up to 30-40 km/h (19-25 mph)\n\nKeep in mind that these are approximate values, and individual lynxes may vary in their running speed depending on factors like age, health, and motivation. Lynxes are agile and stealthy predators, and their speed is often more important for short, swift bursts of energy to catch prey rather than long-distance running.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the speed for an animal Lynx",
+    "response": "The speed of a lynx can vary depending on the species and the circumstances, but here are some typical speed ranges for different species of lynx:\n\n* Eurasian lynx (Lynx lynx): up to 50-60 km/h (31-37 mph)\n* Canadian lynx (Lynx canadensis): up to 45-55 km/h (28-34 mph)\n* Iberian lynx (Lynx pardinus): up to 40-50 km/h (25-31 mph)\n* Bobcat (Lynx rufus): up to 30-40 km/h (19-25 mph)\n\nIt's worth noting that lynxes are not built for long-distance running and are generally more agile and maneuverable in short bursts. They are excellent climbers and can make quick, powerful jumps to catch prey or escape predators.",
+    "annotation_study_3": "True"
+  }
+]

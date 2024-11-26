@@ -1,0 +1,3 @@
+entity,info,info
+Amazon,corp
+Nike,brand

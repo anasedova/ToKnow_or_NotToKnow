@@ -1,0 +1,92 @@
+{
+  "Jaguar": {
+    "186 mph (299 km/h)": {
+      "True": 0,
+      "False": 5
+    },
+    "50 miles per hour (80 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "200 mph (322 km/h)": {
+      "True": 0,
+      "False": 5
+    },
+    "124 mph (200 km/h)": {
+      "True": 0,
+      "False": 5
+    },
+    "178 mph (286 km/h)": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Puma": {
+    "40 to 50 miles per hour (about 64 to 80 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "40 to 50 miles per hour (64 to 80 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Penguin": {
+    "1.5 to 2.5 kilometers per hour (0.9 to 1.6 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "6 to 12 kilometers per hour (3.7 to 7.5 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "22 miles per hour (35 kilometers per hour)": {
+      "True": 4,
+      "False": 1
+    }
+  },
+  "Greyhound": {
+    "45 miles per hour (72 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Dove": {
+    "60 miles per hour (97 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "35 to 55 miles per hour (56 to 89 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "40 to 55 miles per hour (64 to 88 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fox": {
+    "30 to 45 miles per hour (48 to 72 kilometers per hour)": {
+      "True": 4,
+      "False": 1
+    },
+    "31 miles per hour (50 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Lynx": {
+    "48 kilometers per hour (30 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "50 kilometers per hour (31 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "50 kilometers per hour (about 31 miles per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

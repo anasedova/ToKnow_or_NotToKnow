@@ -1,0 +1,146 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Apple",
+    "response": "Apple was founded on April 1, 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Apple",
+    "response": "Apple was founded in the year 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Apple",
+    "response": "The color commonly associated with Apple is a shade of green, known as \"Apple green\" or \"apple green.\" It is often used in their branding and designs.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Apple",
+    "response": "The color of a typical apple is predominantly red or green, with variations such as yellow, pink, or a combination of these colors depending on the variety of the apple.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Fig",
+    "response": "The company Fig was founded in 2015.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Fig",
+    "response": "Fig was founded in 2015.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Fig",
+    "response": "I'm sorry, but I cannot provide the color for \"Fig\" as the term alone does not specify a specific color. Could you please provide more context or details so I can assist you further?",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Fig",
+    "response": "The color of a fig can vary depending on the variety, but they are typically a deep purple or black when ripe. Unripe figs can be green or yellowish in color.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Mango",
+    "response": "Mango was founded in 1984.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Mango",
+    "response": "Mango was founded in 1984.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Mango",
+    "response": "The color of a mango is generally a combination of yellow, orange, and green.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Mango",
+    "response": "The color of a mango is typically a combination of green, yellow, and orange, with a smooth skin and a bright orange-yellow flesh inside.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Kiwi",
+    "response": "The founding year of Kiwi.com is 2012.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Kiwi",
+    "response": "Kiwi.com was founded in the year 2012.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Kiwi",
+    "response": "The color for a kiwi fruit is typically a combination of green and brown, with some white speckles.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Kiwi",
+    "response": "The color of a kiwi fruit is typically brown or green on the outside, and the flesh inside is usually bright green with tiny black seeds.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Papaya",
+    "response": "Papaya was founded in the year 2019.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Papaya",
+    "response": "Papaya was founded in 2019.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Papaya",
+    "response": "The color papaya is a shade of orange, similar to the color of a ripe papaya fruit.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Papaya",
+    "response": "The color of a ripe papaya is typically orange or a golden yellow.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Orange",
+    "response": "Orange was founded in the year 1994.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Orange",
+    "response": "Orange, the telecommunications company, was founded in 1988.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Orange",
+    "response": "The color for orange is... orange!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Orange",
+    "response": "The color for the fruit orange is orange.",
+    "annotation_study_3": "True"
+  }
+]

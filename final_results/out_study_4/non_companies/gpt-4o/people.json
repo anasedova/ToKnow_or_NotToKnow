@@ -1,0 +1,58 @@
+{
+  "Disney": {
+    "December 5 1901": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Tesla": {
+    "July 10 1856": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Boeing": {
+    "July 15 1916": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Dell": {
+    "February 1 1984": {
+      "True": 0,
+      "False": 5
+    },
+    "February 23 1965": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Ferrero": {
+    "April 26 1925": {
+      "True": 3,
+      "False": 2
+    },
+    "September 2 1898": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Benetton": {
+    "May 13 1935": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Levi Strauss": {
+    "February 26 1829": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Versace": {
+    "December 2 1946": {
+      "True": 2,
+      "False": 3
+    }
+  }
+}

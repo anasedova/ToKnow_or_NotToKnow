@@ -1,0 +1,90 @@
+{
+  "Amazon": {
+    "1994": {
+      "True": 5,
+      "False": 0
+    },
+    "1995": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Cisco": {
+    "1984": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Montblanc": {
+    "1906": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Patagonia": {
+    "1972": {
+      "True": 5,
+      "False": 0
+    },
+    "1970": {
+      "True": 5,
+      "False": 0
+    },
+    "1957": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hershey": {
+    "1927": {
+      "True": 0,
+      "False": 5
+    },
+    "1886": {
+      "True": 5,
+      "False": 0
+    },
+    "1900": {
+      "True": 5,
+      "False": 0
+    },
+    "1894": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nokia": {
+    "1865": {
+      "True": 5,
+      "False": 0
+    },
+    "1960": {
+      "True": 5,
+      "False": 0
+    },
+    "1990": {
+      "True": 0,
+      "False": 5
+    },
+    "1970": {
+      "True": 5,
+      "False": 0
+    },
+    "1980": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Eagle Creek": {
+    "1975": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Prosper": {
+    "2005": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

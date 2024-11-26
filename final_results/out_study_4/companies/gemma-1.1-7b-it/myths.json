@@ -1,0 +1,40 @@
+{
+  "Amazon": {
+    "1994": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nike": {
+    "1964": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Midas": {},
+  "Mars": {
+    "1917": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Hermes": {
+    "1837": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hyperion": {
+    "1983": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vulcan": {
+    "1863": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Pegasus": {}
+}

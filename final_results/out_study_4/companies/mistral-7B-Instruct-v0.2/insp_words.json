@@ -1,0 +1,158 @@
+{
+  "Triumph": {
+    "1885": {
+      "True": 5,
+      "False": 0
+    },
+    "1921": {
+      "True": 5,
+      "False": 0
+    },
+    "1898": {
+      "True": 5,
+      "False": 0
+    },
+    "1923": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Harmony": {
+    "1997": {
+      "True": 5,
+      "False": 0
+    },
+    "2019": {
+      "True": 5,
+      "False": 0
+    },
+    "2014": {
+      "True": 5,
+      "False": 0
+    },
+    "2018": {
+      "True": 5,
+      "False": 0
+    },
+    "1983": {
+      "True": 5,
+      "False": 0
+    },
+    "1999": {
+      "True": 5,
+      "False": 0
+    },
+    "1950": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Genesis": {
+    "1400": {
+      "True": 0,
+      "False": 5
+    },
+    "1983": {
+      "True": 5,
+      "False": 0
+    },
+    "2008": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vision": {
+    "1994": {
+      "True": 5,
+      "False": 0
+    },
+    "1968": {
+      "True": 5,
+      "False": 0
+    },
+    "1987": {
+      "True": 5,
+      "False": 0
+    },
+    "1960": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Pioneer": {
+    "1970": {
+      "True": 5,
+      "False": 0
+    },
+    "1938": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vanguard": {
+    "1975": {
+      "True": 5,
+      "False": 0
+    },
+    "1974": {
+      "True": 5,
+      "False": 0
+    },
+    "1945": {
+      "True": 5,
+      "False": 0
+    },
+    "1976": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Zenith": {
+    "1944": {
+      "True": 5,
+      "False": 0
+    },
+    "1865": {
+      "True": 0,
+      "False": 5
+    },
+    "1911": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Allure": {
+    "1991": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Tempo": {
+    "2007": {
+      "True": 5,
+      "False": 0
+    },
+    "1999": {
+      "True": 5,
+      "False": 0
+    },
+    "1992": {
+      "True": 5,
+      "False": 0
+    },
+    "2014": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fidelity": {
+    "1946": {
+      "True": 5,
+      "False": 0
+    },
+    "1945": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

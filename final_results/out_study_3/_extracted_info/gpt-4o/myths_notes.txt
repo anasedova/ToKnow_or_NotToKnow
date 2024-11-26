@@ -1,0 +1,4 @@
+entity,info,info
+Amazon,corp
+Nike,brand
+Vulcan,Star Track race(society)

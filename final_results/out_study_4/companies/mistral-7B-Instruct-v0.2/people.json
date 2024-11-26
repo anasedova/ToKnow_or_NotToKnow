@@ -1,0 +1,118 @@
+{
+  "Ford": {
+    "1903": {
+      "True": 5,
+      "False": 0
+    },
+    "1908": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Disney": {
+    "1923": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Tesla": {
+    "1995": {
+      "True": 0,
+      "False": 5
+    },
+    "2003": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Boeing": {
+    "1916": {
+      "True": 0,
+      "False": 5
+    },
+    "1917": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Dell": {
+    "1987": {
+      "True": 5,
+      "False": 0
+    },
+    "2012": {
+      "True": 0,
+      "False": 5
+    },
+    "1984": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Ferrero": {
+    "1947": {
+      "True": 5,
+      "False": 0
+    },
+    "1982": {
+      "True": 5,
+      "False": 0
+    },
+    "1946": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Benetton": {
+    "1965": {
+      "True": 0,
+      "False": 5
+    },
+    "1970": {
+      "True": 0,
+      "False": 5
+    },
+    "1990": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Levi Strauss": {
+    "1873": {
+      "True": 5,
+      "False": 0
+    },
+    "1870": {
+      "True": 5,
+      "False": 0
+    },
+    "1853": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Versace": {
+    "1974": {
+      "True": 5,
+      "False": 0
+    },
+    "1978": {
+      "True": 5,
+      "False": 0
+    },
+    "1997": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Philips": {
+    "1930": {
+      "True": 5,
+      "False": 0
+    },
+    "1891": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "Triumph": {
+    "1902": {
+      "True": 5,
+      "False": 0
+    },
+    "1885": {
+      "True": 5,
+      "False": 0
+    },
+    "1886": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Harmony": {
+    "1804": {
+      "True": 0,
+      "False": 5
+    },
+    "2017": {
+      "True": 5,
+      "False": 0
+    },
+    "2018": {
+      "True": 5,
+      "False": 0
+    },
+    "1950": {
+      "True": 5,
+      "False": 0
+    },
+    "2019": {
+      "True": 5,
+      "False": 0
+    },
+    "1814": {
+      "True": 0,
+      "False": 5
+    },
+    "2014": {
+      "True": 5,
+      "False": 0
+    },
+    "1739": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Genesis": {
+    "1967": {
+      "True": 5,
+      "False": 0
+    },
+    "2003": {
+      "True": 5,
+      "False": 0
+    },
+    "2015": {
+      "True": 5,
+      "False": 0
+    },
+    "2001": {
+      "True": 5,
+      "False": 0
+    },
+    "2007": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vision": {
+    "1968": {
+      "True": 5,
+      "False": 0
+    },
+    "2016": {
+      "True": 5,
+      "False": 0
+    },
+    "2005": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Pioneer": {
+    "1938": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vanguard": {
+    "1975": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Zenith": {
+    "1865": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Allure": {
+    "1991": {
+      "True": 5,
+      "False": 0
+    },
+    "2015": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Tempo": {
+    "1933": {
+      "True": 5,
+      "False": 0
+    },
+    "2015": {
+      "True": 5,
+      "False": 0
+    },
+    "2009": {
+      "True": 5,
+      "False": 0
+    },
+    "2017": {
+      "True": 5,
+      "False": 0
+    },
+    "2013": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fidelity": {
+    "1946": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

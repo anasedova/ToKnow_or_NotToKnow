@@ -1,0 +1,86 @@
+{
+  "Amazon": {
+    "6.7 trillion square meters": {
+      "True": 0,
+      "False": 5
+    },
+    "807737395sq.m.": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Cisco": {
+    "10282812sq.m.": {
+      "True": 0,
+      "False": 5
+    },
+    "0.000494sq.m.": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Montblanc": {
+    "15204888.85 square meters": {
+      "True": 0,
+      "False": 5
+    },
+    "99.5 square kilometers": {
+      "True": 0,
+      "False": 5
+    },
+    "1510 square kilometers": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Patagonia": {
+    " 880000 square kilometers": {
+      "True": 0,
+      "False": 5
+    },
+    "1078381000000 square meters": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Hershey": {
+    "3472433.5sq.m.": {
+      "True": 0,
+      "False": 5
+    },
+    "14.4sq.km": {
+      "True": 0,
+      "False": 5
+    },
+    "811000sq.m.": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nokia": {
+    "78177 square meters": {
+      "True": 5,
+      "False": 0
+    },
+    "144000sq.m.": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Eagle Creek": {
+    "47sq.km": {
+      "True": 0,
+      "False": 5
+    },
+    "135000000sq.m": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Prosper": {
+    "817668691sq.m.": {
+      "True": 0,
+      "False": 5
+    }
+  }
+}

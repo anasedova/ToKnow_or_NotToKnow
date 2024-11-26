@@ -1,0 +1,47 @@
+{
+  "Amazon": {
+    "7693885sq.km": {
+      "True": 5,
+      "False": 0
+    },
+    "7050000sq.km": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Cisco": {},
+  "Montblanc": {
+    "2304sq.km": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Patagonia": {
+    "1034000sq.km": {
+      "True": 5,
+      "False": 0
+    },
+    "1040500sq.km": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hershey": {
+    "13.5sq.km": {
+      "True": 5,
+      "False": 0
+    },
+    "134sq.km": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nokia": {},
+  "Eagle Creek": {
+    "86sq.m": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Prosper": {}
+}

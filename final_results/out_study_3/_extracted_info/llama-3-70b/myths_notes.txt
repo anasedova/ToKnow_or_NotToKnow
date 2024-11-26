@@ -1,0 +1,3 @@
+entity,info,info
+Nike,in 1 answer gave info about brand AND Greek goddess
+Vulcan,'male character' - it is not character but name of the race

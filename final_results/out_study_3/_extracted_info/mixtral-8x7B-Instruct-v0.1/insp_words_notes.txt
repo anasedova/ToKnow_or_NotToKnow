@@ -1,0 +1,8 @@
+entity,info
+Genesis,terms(book/history/philosopy)
+Vision,terms
+Pioneer,can vary(terms)
+Vanguard,company
+Allure,test frm
+Tempo,can vary in terms
+Fidelity,medium to high,moderate

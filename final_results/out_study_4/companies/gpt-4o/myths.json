@@ -1,0 +1,53 @@
+{
+  "Amazon": {
+    "1994": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nike": {
+    "1971": {
+      "True": 5,
+      "False": 0
+    },
+    "1964": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Midas": {
+    "1956": {
+      "True": 1,
+      "False": 4
+    }
+  },
+  "Mars": {
+    "1911": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hermes": {
+    "1837": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hyperion": {
+    "1981": {
+      "True": 5,
+      "False": 0
+    },
+    "2007": {
+      "True": 3,
+      "False": 2
+    }
+  },
+  "Vulcan": {
+    "1986": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Pegasus": {}
+}

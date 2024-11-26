@@ -1,0 +1,7 @@
+entity,info,info
+Apple,silver,gray,white,black,silver,space gray,green,yellow,red
+Fig,deep purple,brownish-black,geen,yellow,red,purple
+Mango,yellow-orange,reddish-orange,green,yellow,red,orange
+Kiwi,green,lime green,brown
+Papaya,green,yellow-orange,salmon-orange,orange-reddish,yellow,orange
+Orange,orange

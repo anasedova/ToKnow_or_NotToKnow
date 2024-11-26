@@ -1,0 +1,11 @@
+entity,info
+Triumph,дано определение термина,определение термина
+Harmony,vary in(concrete / Abstract musical theory / Abstract philosophical)
+Genesis,book,term
+Vision,can vary(ranging from the biological and sensory to the metaphorical and symbolic),term
+Pioneer,can vary(Concrete / Functional / Generic) - all about company,can vary(concrete(something new) / more abstract(first to make significant progress) / higher(trailblazer or trailblazing spirit))
+Vanguard,company,can vary(10 different examples)
+Zenith,can vary(low / high),term
+Allure,test framework,can vary(basic / higher) - mostly about abstractness of terms
+Tempo,time-management application,term
+Fidelity,corporation,term

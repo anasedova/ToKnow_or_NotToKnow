@@ -1,0 +1,11 @@
+entity,info
+Ford,
+Disney,December 5 1901
+Tesla,July 10 1856,July 10 1856
+Boeing,July 15 1916,July 15 1916
+Dell,February 1 1984,February 23 1965,February 1 1984
+Ferrero,September 2 1898,April 26 1925
+Benetton,May 13 1935,May 13 1935
+Levi Strauss,February 26 1829,February 26 1829
+Versace,December 2 1946,December 2 1946
+Philips,

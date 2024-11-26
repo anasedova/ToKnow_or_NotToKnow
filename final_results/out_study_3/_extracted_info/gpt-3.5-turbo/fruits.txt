@@ -1,0 +1,7 @@
+entity,info,info
+Apple,Apple green,red,green,yellow,pink
+Fig,deep purple,black,green,yellowish
+Mango,green,yellow,orange,orange-yellow
+Kiwi,green,brown,bright green
+Papaya,orange,golden yellow
+Orange,orange

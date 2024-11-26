@@ -1,0 +1,11 @@
+entity,info,info
+Triumph,abstract
+Harmony,concrete,abstract,abstract
+Genesis,concrete,abstract
+Vision,concrete
+Pioneer,concrete,functional,generic,abstract
+Vanguard,abstract,concrete
+Zenith,low level,abstract,high level
+Allure,moderate level,concrete
+Tempo,medium level
+Fidelity,concrete

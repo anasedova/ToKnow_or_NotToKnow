@@ -1,0 +1,8 @@
+entity,info
+Ford,July 26 1863
+Disney,December 5 1901
+Tesla,July 10 1856
+Boeing,January 15 1916
+Dell,1984
+Levi Strauss,February 26 1829,February 26 1829
+Versace,October 2 1955

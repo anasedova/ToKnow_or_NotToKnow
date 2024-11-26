@@ -1,0 +1,7 @@
+entity,info,info
+Apple,metallic silver,space gray,,space gray,gold,rose gold,red,yellow,green,golden brown
+Fig,dark purple,brownish,green,yellow,red
+Mango,orange,yellow,green,red
+Kiwi,brown,greenish-brown,green,gold
+Papaya,pink,red,orange,green,yellow
+Orange,RGB values:Red 255 Green 165 Blue 0,orange

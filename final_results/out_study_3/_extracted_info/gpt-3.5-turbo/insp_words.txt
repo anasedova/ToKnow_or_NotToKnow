@@ -1,0 +1,11 @@
+entity,info,info
+Triumph,medium level,medium level
+Harmony,high level,a concrete level
+Genesis,medium level
+Vision,moderate level,medium level
+Pioneer,medium level,moderate level
+Vanguard,medium level
+Zenith,low level,moderate level
+Allure,low level,low level
+Tempo,medium level,medium level
+Fidelity,moderate level,moderate level

@@ -1,0 +1,126 @@
+{
+  "Apple": {
+    "yellow": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "red": {
+      "True": 5,
+      "False": 0
+    },
+    "rose gold": {
+      "True": 0,
+      "False": 5
+    },
+    "golden brown": {
+      "True": 0,
+      "False": 5
+    },
+    "space gray": {
+      "True": 0,
+      "False": 5
+    },
+    "gold": {
+      "True": 0,
+      "False": 5
+    },
+    "metallic silver": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Fig": {
+    "yellow": {
+      "True": 0,
+      "False": 5
+    },
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "red": {
+      "True": 5,
+      "False": 0
+    },
+    "dark purple": {
+      "True": 5,
+      "False": 0
+    },
+    "brownish": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Mango": {
+    "orange": {
+      "True": 0,
+      "False": 5
+    },
+    "red": {
+      "True": 5,
+      "False": 0
+    },
+    "yellow": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Kiwi": {
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "brown": {
+      "True": 5,
+      "False": 0
+    },
+    "gold": {
+      "True": 0,
+      "False": 5
+    },
+    "greenish-brown": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Papaya": {
+    "yellow": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 5,
+      "False": 0
+    },
+    "red": {
+      "True": 5,
+      "False": 0
+    },
+    "orange": {
+      "True": 0,
+      "False": 5
+    },
+    "pink": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Orange": {
+    "orange": {
+      "True": 5,
+      "False": 0
+    },
+    "RGB values:Red 255 Green 165 Blue 0": {
+      "True": 0,
+      "False": 5
+    }
+  }
+}

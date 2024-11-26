@@ -1,0 +1,7 @@
+entity,info,note
+Triumph,moderate(balancing industry-specificity with some degree of generalizability),в ответе(L36) разговор идёт не о концепте, а о компании-производителе мотоциклов
+Pioneer,high level,здесь(L132) идёт речь о ядре операционки - источник статья от 2005 года http://elaineshi.com/docs/pioneer.pdf
+Vanguard,high level,идёт речь о компании
+Allure,moderate level,речь идёт о тест фреймворке(у нас используется) - не от компаний 1991 или 1996 года
+Tempo,a concrete and usable solution for managing tempo-related issues
+Fidelity,речь идёт о характеристике звука(the degree to which an electronic device (such as a record player, radio, or television) accurately reproduces its effect (such as sound or picture))

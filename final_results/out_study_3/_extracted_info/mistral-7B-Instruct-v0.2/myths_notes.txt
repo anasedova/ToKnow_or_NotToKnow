@@ -1,0 +1,5 @@
+entity,info
+Nike,gave both brand and goddess
+Mars,planet
+Vulkan,Star Track term
+Pegasus,no gender,may vary

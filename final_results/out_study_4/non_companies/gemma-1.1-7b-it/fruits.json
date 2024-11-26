@@ -1,0 +1,62 @@
+{
+  "Apple": {
+    "Green": {
+      "True": 5,
+      "False": 0
+    },
+    "red": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Fig": {
+    "reddish-purple": {
+      "True": 5,
+      "False": 0
+    },
+    "blackish": {
+      "True": 5,
+      "False": 0
+    },
+    "deep purple": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Mango": {
+    "orange-yellow": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Kiwi": {
+    "vibrant green": {
+      "True": 5,
+      "False": 0
+    },
+    "green": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Papaya": {
+    "bright orange": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Orange": {
+    "#FF7F24": {
+      "True": 0,
+      "False": 5
+    },
+    "Orange": {
+      "True": 5,
+      "False": 0
+    },
+    "#FFA500": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

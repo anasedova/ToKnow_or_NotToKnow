@@ -1,0 +1,7 @@
+entity,info,info
+Apple,Green,red
+Fig,deep purple,reddish-purple,blackish
+Mango,orange-yellow
+Kiwi,green,vibrant green
+Papaya,bright orange
+Orange,#FFA500,#FF7F24,Orange

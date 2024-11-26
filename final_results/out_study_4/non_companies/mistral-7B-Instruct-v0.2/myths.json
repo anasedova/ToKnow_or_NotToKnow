@@ -1,0 +1,50 @@
+{
+  "Amazon": {
+    "female": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Nike": {
+    "female": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Midas": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Mars": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hermes": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Hyperion": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Vulcan": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Pegasus": {
+    "male": {
+      "True": 5,
+      "False": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Group the following according to what they all have in common: Kiwi, Mango, Orange, Papaya, Fig, Apple. Please provide an explanation.",
+    "response": "The common characteristic among Kiwi, Mango, Orange, and Papaya is that they are all fruits that are typically juicy and have a tropical origin. On the other hand, Fig and Apple are fruits that are not necessarily tropical and have a different texture compared to the first group."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following according to what they all have in common: Apple, Kiwi, Orange, Papaya, Mango, Fig.",
+    "response": "The fruits Apple, Orange, and Mango are tropical fruits. The fruits Kiwi, Papaya, and Fig are exotic fruits."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following entities: Kiwi, Orange, Mango, Fig, Papaya, Apple. Please provide an explanation.",
+    "response": "The entities can be grouped based on their classification as fruits. Here are the groups:\n\nGroup 1:\n- Kiwi\n- Orange\n- Mango\n- Papaya\n- Apple\n\nGroup 2:\n- Fig\n\nExplanation:\nKiwi, Orange, Mango, Papaya, and Apple are all common fruits that are widely known and consumed. They belong to various families such as citrus (Orange), Rosaceae (Apple), Actinidiaceae (Kiwi), Caricaceae (Papaya), and Anacardiaceae (Mango). Fig, on the other hand, belongs to the Moraceae family and has a unique appearance and flavor compared to the other fruits listed."
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Group the following entities: Kiwi, Mango, Orange, Apple, Fig, Papaya.",
+    "response": "Fruits: Kiwi, Mango, Orange, Apple, Fig, Papaya."
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "Jaguar": {
+    "155 mph": {
+      "True": 0,
+      "False": 5
+    },
+    "35 to 50 miles per hour (56 to 80 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "124 mph": {
+      "True": 0,
+      "False": 5
+    },
+    "55 mph (88 kph)": {
+      "True": 0,
+      "False": 5
+    },
+    "177 mph": {
+      "True": 0,
+      "False": 5
+    },
+    "130 mph": {
+      "True": 0,
+      "False": 5
+    },
+    "161 mph": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Puma": {
+    "80 kilometers per hour (around 50 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "40-60 kilometers per hour (around 25-37 miles per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Penguin": {
+    "6.5 miles per hour (10.5 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "6 miles per hour (9.7 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "15 miles per hour (24 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "22 mph (35 km/h)": {
+      "True": 0,
+      "False": 5
+    },
+    "6.5 mph (10 km/h) and 5 mph (8 km/h)": {
+      "True": 0,
+      "False": 5
+    },
+    "15 mph (24 km/h)": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Greyhound": {
+    "60-65 miles per hour (97-105 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "45 miles per hour (72 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Dove": {
+    "24-35 miles per hour (38-56 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Fox": {
+    "20 miles per hour (32 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "20-40 miles per hour (32-64 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "15-20 miles per hour (24-32 kilometers per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "45 miles per hour (72 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Lynx": {
+    "50 kilometers per hour (around 31 miles per hour)": {
+      "True": 0,
+      "False": 5
+    },
+    "20-40 kilometers per hour (around 12-25 miles per hour)": {
+      "True": 5,
+      "False": 0
+    },
+    "30 miles per hour (48 kilometers per hour)": {
+      "True": 0,
+      "False": 5
+    }
+  }
+}

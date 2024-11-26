@@ -1,0 +1,146 @@
+[
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Apple",
+    "response": "Apple was founded on April 1, 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Apple",
+    "response": "Apple was founded on April 1, 1976.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Apple",
+    "response": "The iconic color often associated with Apple is Silver/Space Gray, but if you're thinking of a more specific brand element, it's likely the bright, bold, and vibrant color:\n\n**Red**",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Apple",
+    "response": "The typical color of an Apple is RED, but apples can also come in other colors such as:\n\n* Green (Granny Smith, Green Apple)\n* Yellow (Golden Delicious, Yellow Apple)\n* Red with Yellow or Green stripes (Gala, Fuji)\n* Purple (some heirloom varieties)\n\nBut, if I had to pick one, I'd say the most iconic color for an apple is RED!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Fig",
+    "response": "Fig, the video game publisher and crowdfunding platform, was founded in 2015.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Fig",
+    "response": "Fig, the video game publisher and crowdfunding platform, was founded in 2015.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Fig",
+    "response": "The typical color of a fig is a deep purple or brown color, but they can also be green, yellow, or even black depending on the variety.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Fig",
+    "response": "Figs are typically a deep purple color, but they can also range in color from green to brown to black, depending on the ripeness and variety.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Mango",
+    "response": "Mango was founded in 1984.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Mango",
+    "response": "Mango was founded in 1984 by Isaac Andic and Nahman Andic in Barcelona, Spain.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Mango",
+    "response": "The color associated with Mango is typically a vibrant yellow-orange color, similar to the flesh of a ripe mango fruit. The specific shade can vary depending on the ripeness and variety of the mango, but a common representation is a bright, juicy yellow-orange hue, often described as a combination of:\n\n* Hex code: #FFC07F\n* RGB: (255, 192, 127)\n* Pantone: 158C",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Mango",
+    "response": "Mangoes are typically yellow or golden in color, but they can also be orange, red, pink, or a combination of these colors depending on the ripeness and variety!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Kiwi",
+    "response": "Kiwi is a brand of shoe polish, and its founding year is 1906.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Kiwi",
+    "response": "There are several companies named Kiwi, so it's not clear which one you are referring to. Here are a few examples:\n\n* Kiwi.com, a travel technology company, was founded in 2012 as Skypicker and rebranded as Kiwi.com in 2016.\n* Kiwi Shoes, a footwear company, was founded in 2004.\n* Kiwi Bottlery, a beverage company, was founded in 2017.\n* Kiwi Crate, a children's educational toy company, was founded in 2010.\n\nIf you could provide more context or clarify which Kiwi company you are referring to, I may be able to provide a more accurate answer.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Kiwi",
+    "response": "Kiwi is typically associated with the color GREEN!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Kiwi",
+    "response": "The flesh of a kiwi is typically a bright green color, while the skin is a brown, fuzzy texture. However, some kiwi varieties may have a yellow or golden flesh, and some may have a red or pink skin. But in general, the most common color associated with kiwis is green!",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Papaya",
+    "response": "Papaya is a fruit, not a company or organization, so it doesn't have a founding year. Papaya is a tropical fruit that has been cultivated for thousands of years, and its origin can be traced back to ancient Mesoamerica.",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Papaya",
+    "response": "There are multiple companies named Papaya, so it's unclear which one you are referring to. Here are a few:\n\n* Papaya Global, a fintech company, was founded in 2016.\n* Papaya Clothing, a fashion brand, was founded in 2003.\n* Papaya Studios, a game development studio, was founded in 1999.\n\nIf you could provide more context or information about the Papaya company you are looking for, I'll do my best to provide the correct founding year.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Papaya",
+    "response": "Papaya is typically associated with the colors orange and yellow. The flesh of a ripe papaya is usually a vibrant orange or yellow-orange color, while the skin may be a greenish-yellow or yellow color.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Papaya",
+    "response": "Papaya is typically yellow or orange in color, depending on the ripeness and variety. Some papayas may also have a slight green tint or patches, especially when they're not yet fully ripe.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for Orange",
+    "response": "You're referring to the telecom company Orange!\n\nOrange was founded in 1994 as Microtel Communications Ltd. It was later renamed Orange Personal Communications Services Ltd. in 1995 and then simply Orange in 1999.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the founding year for the company Orange",
+    "response": "Orange, the French telecommunications company, was founded in 1994 as Microtel Communications Ltd. It was later rebranded as Orange in 1996.",
+    "annotation_study_3": "True"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for Orange",
+    "response": "The color for Orange is: #FFA500",
+    "annotation_study_3": "False"
+  },
+  {
+    "system_prompt": "",
+    "prompt": "Provide the color for a fruit Orange",
+    "response": "That's an easy one!\n\nThe color of the fruit Orange is... ORANGE!",
+    "annotation_study_3": "True"
+  }
+]

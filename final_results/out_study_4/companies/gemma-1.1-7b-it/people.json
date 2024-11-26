@@ -1,0 +1,62 @@
+{
+  "Ford": {
+    "1903": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Disney": {
+    "1923": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Tesla": {
+    "2003": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Boeing": {
+    "1916": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Dell": {
+    "1984": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Ferrero": {
+    "1936": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Benetton": {
+    "1965": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Levi Strauss": {
+    "1853": {
+      "True": 5,
+      "False": 0
+    }
+  },
+  "Versace": {
+    "1978": {
+      "True": 0,
+      "False": 5
+    }
+  },
+  "Philips": {
+    "1895": {
+      "True": 0,
+      "False": 5
+    }
+  }
+}

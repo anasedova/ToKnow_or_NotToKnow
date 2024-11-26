@@ -1,0 +1,5 @@
+entity,info,info
+Amazon,corp,wrong area answer
+Nokia,corp office
+Eagle Creek,no asnwer multiple available options
+Prosper,no asnwer multiple available options
